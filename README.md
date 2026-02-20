@@ -1,3 +1,9 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/JasperZebra/AFoP_Texture_Redirector_Tool?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)
+![Total Downloads](https://img.shields.io/github/downloads/JasperZebra/AFoP_Texture_Redirector_Tool/total?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)
+![Platform](https://img.shields.io/badge/platform-windows-00ffff?style=for-the-badge&logo=windows&logoColor=00ffff&labelColor=1a4d66)
+![Made for](https://img.shields.io/badge/made%20for-Avatar:_Frontiers_of_Pandora-00ffff?style=for-the-badge&logo=gamepad&logoColor=00ffff&labelColor=1a4d66)
+![Tool Type](https://img.shields.io/badge/type-texture%20redirector-00ffff?style=for-the-badge&logo=package&logoColor=00ffff&labelColor=1a4d66)
+
 # Texture Redirector
 ### Avatar: Frontiers of Pandora — Modding Tool
 
