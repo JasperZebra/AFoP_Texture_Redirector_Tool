@@ -16,8 +16,6 @@ A GUI tool for redirecting `.mgraphobject` texture references, letting you copy 
 - **Preferences saved** — remembers your last resource and mod folder paths between sessions
 
 ## Usage
-
-### Workflow
 1. **Set Resource Folder** — point it at your game's unpacked resource directory.
 2. **Set Mod Output Folder** — point it at the folder your mod packer reads from.
 3. **Select a file** in the left panel — textures will be located automatically.
