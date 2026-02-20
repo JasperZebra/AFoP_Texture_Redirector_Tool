@@ -37,6 +37,76 @@ BTN_HOV  = "#2e4470"
 MONO     = "Consolas"
 
 
+# ── Custom dialog ─────────────────────────────────────────────────────────────
+
+def themed_error(parent, title, message):
+    """Themed error dialog matching the app colour scheme."""
+    dlg = tk.Toplevel(parent)
+    dlg.title(title)
+    dlg.configure(bg=BG)
+    dlg.resizable(False, False)
+    dlg.grab_set()
+    dlg.focus_set()
+
+    # Centre on parent
+    parent.update_idletasks()
+    pw, ph = parent.winfo_width(), parent.winfo_height()
+    px, py = parent.winfo_rootx(), parent.winfo_rooty()
+    w, h = 460, 210
+    dlg.geometry(f"{w}x{h}+{px + (pw - w) // 2}+{py + (ph - h) // 2}")
+
+    # Title bar strip
+    bar = tk.Frame(dlg, bg=ERROR, height=4)
+    bar.pack(fill="x")
+
+    # Header
+    hdr = tk.Frame(dlg, bg=PANEL)
+    hdr.pack(fill="x")
+    tk.Label(hdr, text=f"  ✕  {title}", bg=PANEL, fg=ERROR,
+             font=("Segoe UI", 10, "bold"), pady=10, anchor="w"
+             ).pack(fill="x", padx=10)
+    tk.Frame(dlg, bg=BORDER, height=1).pack(fill="x")
+
+    # Message
+    body = tk.Frame(dlg, bg=BG)
+    body.pack(fill="both", expand=True, padx=20, pady=16)
+    tk.Label(body, text=message, bg=BG, fg=TEXT,
+             font=("Segoe UI", 9), justify="left", anchor="w", wraplength=400
+             ).pack(fill="x")
+
+    # OK button
+    tk.Frame(dlg, bg=BORDER, height=1).pack(fill="x")
+    btn_row = tk.Frame(dlg, bg=PANEL)
+    btn_row.pack(fill="x", pady=10)
+
+    ok_container = tk.Frame(btn_row, bg=BTN_BG, cursor="hand2")
+    ok_container.pack(anchor="center")
+
+    ok_label = tk.Label(ok_container, text="  OK  ", bg=BTN_BG, fg=ACCENT,
+                         font=("Segoe UI", 9, "bold"), padx=208, pady=6)
+    ok_label.pack()
+
+    def _on_enter(e):
+        ok_container.config(bg=BTN_HOV)
+        ok_label.config(bg=BTN_HOV)
+
+    def _on_leave(e):
+        ok_container.config(bg=BTN_BG)
+        ok_label.config(bg=BTN_BG)
+
+    def _on_click(e):
+        dlg.destroy()
+
+    for widget in (ok_container, ok_label):
+        widget.bind("<Enter>", _on_enter)
+        widget.bind("<Leave>", _on_leave)
+        widget.bind("<Button-1>", _on_click)
+
+    dlg.bind("<Return>", lambda _: dlg.destroy())
+    dlg.bind("<Escape>", lambda _: dlg.destroy())
+    dlg.wait_window()
+
+
 # ── Helpers ────────────────────────────────────────────────────────────────────
 
 def get_base_dir():
@@ -265,8 +335,14 @@ class FileList(tk.Frame):
         self._tv.pack(side="left", fill="both", expand=True)
         sb.config(command=self._tv.yview)
         self._tv.bind("<<TreeviewSelect>>", self._on_tv_select)
+        self._tv.bind("<Button-3>", self._on_right_click)
         self._tv.tag_configure("name_row", foreground=TEXT,  font=("Segoe UI", 9, "bold"))
         self._tv.tag_configure("custom",   foreground=WARN,  font=("Segoe UI", 9, "bold"))
+
+        # Right-click context menu
+        self._ctx_menu = tk.Menu(self, tearoff=0, bg=PANEL, fg=TEXT,
+                                  activebackground=BTN_BG, activeforeground=ACCENT,
+                                  font=("Segoe UI", 9), relief="flat", bd=1)
 
     def load(self, paths: list):
         slots_seen = set()
@@ -323,6 +399,29 @@ class FileList(tk.Frame):
         idx = self._iid_map.get(sel[0])
         if idx is not None and self._on_select:
             self._on_select(self._filtered[idx])
+
+    def _on_right_click(self, event):
+        iid = self._tv.identify_row(event.y)
+        if not iid:
+            return
+        self._tv.selection_set(iid)
+        idx = self._iid_map.get(iid)
+        if idx is None:
+            return
+        item = self._filtered[idx]
+        self._ctx_menu.delete(0, "end")
+        self._ctx_menu.add_command(
+            label=f"Copy stem:  {item['stem']}",
+            command=lambda: self._copy_filename(item["stem"]))
+        try:
+            self._ctx_menu.tk_popup(event.x_root, event.y_root)
+        finally:
+            self._ctx_menu.grab_release()
+
+    def _copy_filename(self, name):
+        self.clipboard_clear()
+        self.clipboard_append(name)
+        self.update()
 
     def get_selected(self):
         sel = self._tv.selection()
@@ -410,7 +509,7 @@ class InfoCard(tk.Frame):
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("AFoP Texture Redirector | Made By: Jasper_Zebra | Version 1.0")
+        self.title("AFoP Texture Redirector | Made By: Jasper_Zebra | Version 1.3")
         self.geometry("1400x860")
         self.minsize(1000, 640)
         self.configure(bg=BG)
@@ -440,6 +539,7 @@ class App(tk.Tk):
         self._sel_res         = None
         self._sel_mod         = None
         self._texture_results = {}
+        self._gear_swap_only  = tk.BooleanVar(value=False)
 
         self._build_ui()
         self._auto_restore()
@@ -524,6 +624,17 @@ class App(tk.Tk):
                  font=(MONO, 10), bd=4
                  ).pack(fill="x")
 
+        # Gear swap only checkbox
+        swap_row = tk.Frame(rename_frame, bg=PANEL)
+        swap_row.pack(fill="x", padx=10, pady=(4, 0))
+        tk.Checkbutton(swap_row, text="Gear swap only  (rename file only, don't touch DDS refs)",
+                       variable=self._gear_swap_only,
+                       bg=PANEL, fg=MUTED, selectcolor=ENTRY_BG,
+                       activebackground=PANEL, activeforeground=TEXT,
+                       font=("Segoe UI", 8),
+                       command=self._on_mg_name_change
+                       ).pack(side="left")
+
         # Derived texture names preview
         tk.Frame(rename_frame, bg=BORDER, height=1).pack(fill="x", pady=(4, 0))
         tex_hdr = tk.Frame(rename_frame, bg=PANEL)
@@ -537,8 +648,9 @@ class App(tk.Tk):
                                      font=(MONO, 8), relief="flat", bd=0,
                                      state="disabled", height=4, padx=10,
                                      highlightthickness=0)
-        self._tex_preview.tag_config("ok",  foreground=ACCENT2)
-        self._tex_preview.tag_config("err", foreground=ERROR)
+        self._tex_preview.tag_config("ok",   foreground=ACCENT2)
+        self._tex_preview.tag_config("err",  foreground=ERROR)
+        self._tex_preview.tag_config("skip", foreground=MUTED)
         self._tex_preview.pack(fill="x", pady=(0, 8))
 
         # ── Buttons
@@ -646,6 +758,10 @@ class App(tk.Tk):
         new_mg = self._new_mg_var.get().strip()
         item   = self._sel_res
 
+        # Strip extension if the user typed it in
+        if new_mg.lower().endswith(".mgraphobject"):
+            new_mg = new_mg[: -len(".mgraphobject")]
+
         self._tex_preview.config(state="normal")
         self._tex_preview.delete("1.0", "end")
 
@@ -656,9 +772,19 @@ class App(tk.Tk):
             return
 
         # Graph name length check
-        old_mg = item["path"].stem
-        diff   = len(new_mg) - len(old_mg)
-        sign   = "+" if diff > 0 else ""
+        old_mg    = item["path"].stem
+        gear_swap = self._gear_swap_only.get()
+
+        if gear_swap:
+            # No length restriction in gear swap mode — any name is valid
+            self._mg_len_lbl.config(text=f"{len(new_mg)} chars  ✓", fg=SUCCESS)
+            self._tex_preview.insert("end", "  (gear swap only — DDS files unchanged)", "skip")
+            self._tex_len_lbl.config(text="skipped", fg=MUTED)
+            self._tex_preview.config(state="disabled")
+            return
+
+        diff = len(new_mg) - len(old_mg)
+        sign = "+" if diff > 0 else ""
         self._mg_len_lbl.config(
             text=f"{len(new_mg)} chars  ({sign}{diff})" if diff != 0 else f"{len(new_mg)} chars  ✓",
             fg=ERROR if diff != 0 else SUCCESS)
@@ -801,7 +927,7 @@ class App(tk.Tk):
         item = self._sel_res
         if not item:
             messagebox.showwarning("Nothing selected",
-                                   "Select a file in the Resource Folder panel first.")
+                                "Select a file in the Resource Folder panel first.")
             return
         mod = self._mod_var.get().strip()
         if not mod:
@@ -813,50 +939,56 @@ class App(tk.Tk):
             messagebox.showerror("No name", "Enter a new graph file name.")
             return
 
-        res_root    = Path(self._res_var.get().strip())
-        mod_root    = Path(mod)
+        # Strip extension if the user typed it in (e.g. "foo.mgraphobject" -> "foo")
+        if new_mg_stem.lower().endswith(".mgraphobject"):
+            new_mg_stem = new_mg_stem[: -len(".mgraphobject")]
+
         src         = item["path"]
         old_mg_stem = src.stem
+        gear_swap   = self._gear_swap_only.get()
 
-        # ── Derive texture rename map from graph name
-        tex_pairs = self._derive_texture_names(new_mg_stem)  # [(old, new), ...]
-        length_errors = [
-            f"'{o}' ({len(o)})  ->  '{n}' ({len(n)})"
-            for o, n in tex_pairs if len(n) != len(o)
-        ]
-        if length_errors:
-            messagebox.showerror(
-                "Length mismatch",
-                "Derived texture names must be exactly the same length as originals.\n\n"
-                + "\n".join(length_errors))
-            return
+        if not gear_swap:
+            # ── Derive texture rename map from graph name
+            tex_pairs = self._derive_texture_names(new_mg_stem)  # [(old, new), ...]
+            length_errors = [
+                f"'{o}' ({len(o)})  ->  '{n}' ({len(n)})"
+                for o, n in tex_pairs if len(n) != len(o)
+            ]
+            if length_errors:
+                messagebox.showerror(
+                    "Length mismatch",
+                    "Derived texture names must be exactly the same length as originals.\n\n"
+                    + "\n".join(length_errors))
+                return
+            tex_rename_map = {o: n for o, n in tex_pairs}
+        else:
+            tex_rename_map = {}
 
-        tex_rename_map = {o: n for o, n in tex_pairs}  # old_filename -> new_filename
-
-        # ── Graph file length warning
+        # ── Graph file length warning (skipped in gear swap mode — any length is fine)
         new_mg_name = new_mg_stem + src.suffix
-        if len(new_mg_stem) != len(old_mg_stem):
+        if not gear_swap and len(new_mg_stem) != len(old_mg_stem):
             diff = len(new_mg_stem) - len(old_mg_stem)
             sign = "+" if diff > 0 else ""
-            if not messagebox.askyesno(
-                "Graph file name length mismatch",
-                f"The graph filename has a different length:\n\n"
-                f"  Old: '{old_mg_stem}'  ({len(old_mg_stem)} chars)\n"
-                f"  New: '{new_mg_stem}'  ({len(new_mg_stem)} chars)  [{sign}{diff}]\n\n"
-                f"This may cause issues if the filename is referenced elsewhere. Continue anyway?"):
-                return
+            themed_error(self,
+                "Graph File Name Length Mismatch",
+                f"The new graph filename must be exactly the same length as the original.\n\n"
+                f"  Old:  {old_mg_stem}  ({len(old_mg_stem)} chars)\n"
+                f"  New:  {new_mg_stem}  ({len(new_mg_stem)} chars)  [{sign}{diff}]\n\n"
+                f"Adjust the name so both are the same length.")
+            return
 
         # ── Determine output paths — new files go in the same folder as originals
         dst_mgraph = src.parent / new_mg_name
 
-        # Texture destinations: same folder the original texture lives in, renamed
+        # Texture copies only relevant when not in gear swap mode
         tex_copies = []  # (src_path, dst_path, old_name, new_name)
-        for old_name, new_name in tex_rename_map.items():
-            tex_src = self._texture_results.get(old_name)
-            if tex_src is None:
-                continue  # not found on disk, skip
-            dst_tex = tex_src.parent / new_name
-            tex_copies.append((tex_src, dst_tex, old_name, new_name))
+        if not gear_swap:
+            for old_name, new_name in tex_rename_map.items():
+                tex_src = self._texture_results.get(old_name)
+                if tex_src is None:
+                    continue  # not found on disk, skip
+                dst_tex = tex_src.parent / new_name
+                tex_copies.append((tex_src, dst_tex, old_name, new_name))
 
         # ── Overwrite check
         all_dsts = [dst_mgraph] + [d for _, d, _, _ in tex_copies]
@@ -868,32 +1000,33 @@ class App(tk.Tk):
                 f"These files already exist in the mod folder:\n\n{names}\n\nOverwrite?"):
                 return
 
-        # ── Read and patch the .mgraphobject binary
+        # ── Read the .mgraphobject binary
         try:
             mg_data = src.read_bytes()
         except Exception as e:
             messagebox.showerror("Read error", f"Could not read {src.name}:\n{e}")
             return
 
-        try:
-            # Patch every targeted texture filename reference inside the binary
-            for old_name, new_name in tex_rename_map.items():
-                mg_data = patch_binary_string(mg_data, old_name, new_name)
-        except ValueError as e:
-            messagebox.showerror("Patch error", str(e))
-            return
+        # ── Patch internal DDS refs only when not in gear swap mode
+        if not gear_swap:
+            try:
+                for old_name, new_name in tex_rename_map.items():
+                    mg_data = patch_binary_string(mg_data, old_name, new_name)
+            except ValueError as e:
+                messagebox.showerror("Patch error", str(e))
+                return
 
         # ── Execute all writes
         ok, failed = [], []
 
-        # Write patched + renamed .mgraphobject
+        # Write (patched) + renamed .mgraphobject
         try:
             dst_mgraph.write_bytes(mg_data)
             ok.append(dst_mgraph.name)
         except Exception as e:
             failed.append(f"{dst_mgraph.name}: {e}")
 
-        # Copy textures (renamed)
+        # Copy textures (renamed) — skipped in gear swap mode
         for tex_src, tex_dst, old_name, new_name in tex_copies:
             try:
                 shutil.copy2(tex_src, tex_dst)
@@ -903,7 +1036,8 @@ class App(tk.Tk):
 
         if ok and not failed:
             self._set_status(
-                f"Done -- {len(ok)} file(s) written with renamed textures.",
+                f"Done -- {len(ok)} file(s) written"
+                + (" (gear swap only)." if gear_swap else " with renamed textures."),
                 color=SUCCESS)
         elif ok:
             self._set_status(f"Done with errors -- {len(failed)} failed.", color=WARN)
