@@ -7,7 +7,7 @@
 # Texture Redirector
 ### Avatar: Frontiers of Pandora — Modding Tool
 
-<img width="1402" height="895" alt="image" src="https://github.com/user-attachments/assets/5ddb7c5a-cfa1-41bc-917d-71691ef6d7d3" />
+<img width="1402" height="892" alt="image" src="https://github.com/user-attachments/assets/2a87782e-4869-4c15-8d1b-345bd543d884" />
 
 A GUI tool for redirecting `.mgraphobject` texture references, letting you copy and rename gear files from your game's resource folder into your mod output folder with all internal texture paths automatically patched.
 
