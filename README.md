@@ -9,24 +9,72 @@
 
 <img width="1400" height="1031" alt="image" src="https://github.com/user-attachments/assets/6e5cf6e2-dde8-44f3-a822-a63532d351ce" />
 
-A GUI tool for redirecting `.mgraphobject` texture references, letting you copy and rename gear files from your game's resource folder into your mod output folder with all internal texture paths automatically patched.
+A GUI tool for redirecting `.mgraphobject` texture references. Pick a game file, give it a new name, and the tool copies it to your mod folder with all internal texture paths automatically patched — no hex editing required.
+
+---
+
+## How to Use
+
+### Step 1 — Set your folders
+- **Resource Folder** — your game's unpacked resource directory **(root of game dir, "AFOP" folder).**
+- **Mod Output Folder** — this is your "workshop" folder **(your editied files will go in here)**.
+
+### Step 2 — Find your file
+Browse the **left panel** to find the `.mgraphobject` you want to redirect. Use the filters to narrow things down:
+- 🔍 **Search bar** — filter by **filename** or **in-game** item name
+- **Type dropdown** — filter by object type **(Gear, Weapon, Character, Prop, etc.)**
+- **Package dropdown** — filter by content package **(base_game, dlc1, dlc2, dlc3, rogue, etc.)**
+
+Each entry is colour-coded so you can tell at a glance what **type** and **package** it belongs to:
+
+| Color | Type |
+|--------|------|
+| 🟣 Lavender | Gear |
+| 🔴 Red-pink | Weapon |
+| 🟢 Teal | Character |
+| 🟠 Amber | Prop |
+| 🔵 Cyan | Effect |
+| 🟩 Green | Building |
+
+| Color | Package |
+|--------|---------|
+| 🔵 Sky blue | base_game |
+| 🟢 Green | dlc1 |
+| 🟠 Orange | dlc2 |
+| 🩷 Pink | dlc3 |
+| 🟣 Purple | rogue |
+| 🩵 Cyan | snowdrop |
+
+### Step 3 — Name your output file
+Type a new stem in the **NEW GRAPH FILE NAME** box. The tool will:
+- Show a live character count and flag if the length doesn't match the original
+- Automatically derive new texture filenames based on your new stem
+- Let you check/uncheck individual textures to include or skip
+- Allow **manual naming** per texture if the auto-derived name isn't right
+
+> ⚠️ Texture and graph filenames must be the **same byte length** as the originals. The tool will warn you before writing anything if there's a mismatch.
+
+**Gear swap only mode** — tick this checkbox if you only want to rename the `.mgraphobject` file itself without touching any textures **(useful when swapping one gear piece for another).**
+
+### Step 4 — Copy to mod folder
+Click **`⤓ COPY & RENAME TO MOD FOLDER`**. The tool will:
+1. Read the source `.mgraphobject` binary
+2. Patch all internal DDS path references to point to your new texture names
+3. Write the renamed `.mgraphobject` to your mod folder
+4. Copy and rename all found textures to their correct subfolder paths
+
+The right panel shows everything currently in your mod folder so you can see what's been written.
+
+---
 
 ## Features
 
-- **Dual-panel browser** — resource folder on the left, mod output folder on the right
-- **Searchable file lists** with slot filter (Head, Torso, Legs, etc.) and live result count
-- **Auto texture discovery** — scans the resource folder and shows which textures are found or missing per file
-- **Live rename preview** — type a new graph file stem and instantly see the derived texture names with length validation before you commit
-- **Binary patching** — rewrites internal DDS path references inside the `.mgraphobject` file so the game picks up your renamed textures
-- **Custom file support** — extracts DDS references directly from unknown binaries not present in the gear key
-- **Preferences saved** — remembers your last resource and mod folder paths between sessions
-
-## Usage
-1. **Set Resource Folder** — point it at your game's unpacked resource directory.
-2. **Set Mod Output Folder** — point it at the folder your mod packer reads from.
-3. **Select a file** in the left panel — textures will be located automatically.
-4. **Enter a new name** in the rename box — the tool previews the derived texture names and flags any length mismatches.
-5. **Click `COPY & RENAME TO MOD FOLDER`** — the patched `.mgraphobject` and all found textures are written to the output folder.
-
-> ⚠️ Texture and graph filenames must match the original byte length. The tool will warn you if they don't.
-
+- **Dual-panel browser** — resource folder on the left, mod folder on the right
+- **Colour-coded lists** — type and package colours match the AFoP Gear Swap tool for a consistent look across your toolkit
+- **Type + Package filters** — quickly narrow down thousands of files to exactly what you need
+- **Auto texture discovery** — scans the resource folder and shows which textures are found or missing
+- **Binary DDS parsing** — reads texture paths directly from unknown `.mgraphobject` files, no data file needed
+- **Live rename preview** — see derived texture names and length validation before committing
+- **Per-texture controls** — individually enable/disable or manually name each texture
+- **Undo/Redo** — `Ctrl+Z` / `Ctrl+Y` in the name entry field
+- **Preferences saved** — remembers your folder paths between sessions
