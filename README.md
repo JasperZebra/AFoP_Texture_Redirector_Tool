@@ -7,7 +7,7 @@
 # Texture Redirector
 ### Avatar: Frontiers of Pandora — Modding Tool
 
-<img width="1400" height="1031" alt="image" src="https://github.com/user-attachments/assets/6e5cf6e2-dde8-44f3-a822-a63532d351ce" />
+<img width="1397" height="1033" alt="image" src="https://github.com/user-attachments/assets/e3230e57-7322-435b-8c72-0aa566e29582" />
 
 A GUI tool for redirecting `.mgraphobject` texture references. Pick a game file, give it a new name, and the tool copies it to your mod folder with all internal texture paths automatically patched — no hex editing required.
 
@@ -76,5 +76,6 @@ The right panel shows everything currently in your mod folder so you can see wha
 - **Binary DDS parsing** — reads texture paths directly from unknown `.mgraphobject` files, no data file needed
 - **Live rename preview** — see derived texture names and length validation before committing
 - **Per-texture controls** — individually enable/disable or manually name each texture
+- **Slot mismatch warning** — flags if the target graph file belongs to a different slot than the source, so you know before writing
 - **Undo/Redo** — `Ctrl+Z` / `Ctrl+Y` in the name entry field
 - **Preferences saved** — remembers your folder paths between sessions
