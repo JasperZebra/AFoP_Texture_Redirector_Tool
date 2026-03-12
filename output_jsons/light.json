@@ -1,0 +1,14 @@
+{
+  "light": {
+    "dlc3": [
+      {
+        "ui_names": [
+          "dlc3_multifunctional_light"
+        ],
+        "mgraphobject": [
+          "dlc3_multifunctional_light"
+        ]
+      }
+    ]
+  }
+}

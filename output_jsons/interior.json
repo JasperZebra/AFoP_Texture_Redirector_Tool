@@ -1,0 +1,14 @@
+{
+  "interior": {
+    "rogue": [
+      {
+        "ui_names": [
+          "new_interior_graph_template"
+        ],
+        "mgraphobject": [
+          "new_interior_graph_template"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4030 @@
+{
+  "character": {
+    "base_game": [
+      {
+        "ui_names": [
+          "ampsuit_character_codex"
+        ],
+        "mgraphobject": [
+          "ampsuit_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "ampsuite_character"
+        ],
+        "mgraphobject": [
+          "ampsuite_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "ampsuite_character_sensememory_shader"
+        ],
+        "mgraphobject": [
+          "ampsuite_character_sensememory_shader"
+        ]
+      },
+      {
+        "ui_names": [
+          "avtr_character_01"
+        ],
+        "mgraphobject": [
+          "avtr_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "banshee_character"
+        ],
+        "mgraphobject": [
+          "banshee_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "banshee_character_sensememory_shader"
+        ],
+        "mgraphobject": [
+          "banshee_character_sensememory_shader"
+        ]
+      },
+      {
+        "ui_names": [
+          "brand_first_look_amp_rifleman_character"
+        ],
+        "mgraphobject": [
+          "brand_first_look_amp_rifleman_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "ca_rda_trp_01"
+        ],
+        "mgraphobject": [
+          "ca_rda_trp_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "ca_rdabase001_lasercannon"
+        ],
+        "mgraphobject": [
+          "ca_rdabase001_lasercannon"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc_hardingbossarmdrill_character_prototype"
+        ],
+        "mgraphobject": [
+          "dlc_hardingbossarmdrill_character_prototype"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc_hardingbossarmlaser_character_prototype"
+        ],
+        "mgraphobject": [
+          "dlc_hardingbossarmlaser_character_prototype"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc_resistance_amp_character"
+        ],
+        "mgraphobject": [
+          "dlc_resistance_amp_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc_vh_resistance_samson_character"
+        ],
+        "mgraphobject": [
+          "dlc_vh_resistance_samson_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "gp_ingredient_rda_ind_mq920_bossroombombfuel_character"
+        ],
+        "mgraphobject": [
+          "gp_ingredient_rda_ind_mq920_bossroombombfuel_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "gp_ingredient_rda_ind_mq920_bossroombombfuel_character_02"
+        ],
+        "mgraphobject": [
+          "gp_ingredient_rda_ind_mq920_bossroombombfuel_character_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "gp_ingredient_rda_ind_mq920_payloadbomb_character"
+        ],
+        "mgraphobject": [
+          "gp_ingredient_rda_ind_mq920_payloadbomb_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "human_character_01"
+        ],
+        "mgraphobject": [
+          "human_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "human_character_01_grunt_codex"
+        ],
+        "mgraphobject": [
+          "human_character_01_grunt_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "human_character_01_handgun_codex"
+        ],
+        "mgraphobject": [
+          "human_character_01_handgun_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "human_character_01_rpg_codex"
+        ],
+        "mgraphobject": [
+          "human_character_01_rpg_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "human_character_01_sniper_codex"
+        ],
+        "mgraphobject": [
+          "human_character_01_sniper_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "human_character_02"
+        ],
+        "mgraphobject": [
+          "human_character_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "ld_ingredient_sidequest_rdaserver_character"
+        ],
+        "mgraphobject": [
+          "ld_ingredient_sidequest_rdaserver_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "meshpreview_characterobject_first_person"
+        ],
+        "mgraphobject": [
+          "meshpreview_characterobject_first_person"
+        ]
+      },
+      {
+        "ui_names": [
+          "meshpreview_characterobject_navi_body_npc"
+        ],
+        "mgraphobject": [
+          "meshpreview_characterobject_navi_body_npc"
+        ]
+      },
+      {
+        "ui_names": [
+          "meshpreview_characterobject_rda_male"
+        ],
+        "mgraphobject": [
+          "meshpreview_characterobject_rda_male"
+        ]
+      },
+      {
+        "ui_names": [
+          "meshpreview_characterobject_rda_male_sensememory_shader"
+        ],
+        "mgraphobject": [
+          "meshpreview_characterobject_rda_male_sensememory_shader"
+        ]
+      },
+      {
+        "ui_names": [
+          "meshpreview_characterobject_third_person"
+        ],
+        "mgraphobject": [
+          "meshpreview_characterobject_third_person"
+        ]
+      },
+      {
+        "ui_names": [
+          "meshpreview_characterobject_thirdandfirst_person"
+        ],
+        "mgraphobject": [
+          "meshpreview_characterobject_thirdandfirst_person"
+        ]
+      },
+      {
+        "ui_names": [
+          "meshpreview_characterobject_thirdandfirst_person_sensememory_shader"
+        ],
+        "mgraphobject": [
+          "meshpreview_characterobject_thirdandfirst_person_sensememory_shader"
+        ]
+      },
+      {
+        "ui_names": [
+          "navi_avatar_npc_pbd_profiles"
+        ],
+        "mgraphobject": [
+          "navi_avatar_npc_pbd_profiles"
+        ]
+      },
+      {
+        "ui_names": [
+          "navi_child_npc_pbd_profiles"
+        ],
+        "mgraphobject": [
+          "navi_child_npc_pbd_profiles"
+        ]
+      },
+      {
+        "ui_names": [
+          "navi_npc_character_low_01"
+        ],
+        "mgraphobject": [
+          "navi_npc_character_low_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "p_body_01_m_rig"
+        ],
+        "mgraphobject": [
+          "p_body_01_m_rig"
+        ]
+      },
+      {
+        "ui_names": [
+          "p_character_remote_01"
+        ],
+        "mgraphobject": [
+          "p_character_remote_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "p_child_character_01"
+        ],
+        "mgraphobject": [
+          "p_child_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "p_infant_character_01"
+        ],
+        "mgraphobject": [
+          "p_infant_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "p_kinglorqueen_character"
+        ],
+        "mgraphobject": [
+          "p_kinglorqueen_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "paperdoll_navi_assembly"
+        ],
+        "mgraphobject": [
+          "paperdoll_navi_assembly"
+        ]
+      },
+      {
+        "ui_names": [
+          "prototype_amp_light"
+        ],
+        "mgraphobject": [
+          "prototype_amp_light"
+        ]
+      },
+      {
+        "ui_names": [
+          "prototype_amp_light_codex"
+        ],
+        "mgraphobject": [
+          "prototype_amp_light_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "prototype_human_chaser_character"
+        ],
+        "mgraphobject": [
+          "prototype_human_chaser_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "prototype_human_grenadier_character"
+        ],
+        "mgraphobject": [
+          "prototype_human_grenadier_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "prototype_human_pyro_character_codex"
+        ],
+        "mgraphobject": [
+          "prototype_human_pyro_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_amp_commando_veteran_character_codex"
+        ],
+        "mgraphobject": [
+          "rda_amp_commando_veteran_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_amp_elite_character"
+        ],
+        "mgraphobject": [
+          "rda_amp_elite_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_amp_pilot_01_m"
+        ],
+        "mgraphobject": [
+          "rda_amp_pilot_01_m"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_amp_rifleman_elite_character"
+        ],
+        "mgraphobject": [
+          "rda_amp_rifleman_elite_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_commando_elite_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_commando_elite_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_commando_elite_character_codex"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_commando_elite_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_cqc_elite_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_cqc_elite_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_cqc_elite_character_codex"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_cqc_elite_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_defender_elite_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_defender_elite_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_defender_elite_character_dlc_codex"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_defender_elite_character_dlc_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_defender_veteran_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_defender_veteran_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_defender_veteran_character_dlc_codex"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_defender_veteran_character_dlc_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_grenadier_boss_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_grenadier_boss_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_grenadier_boss_character_cin"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_grenadier_boss_character_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_grenadier_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_grenadier_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_grenadier_character_codex"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_grenadier_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_grenadier_elite_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_grenadier_elite_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_grenadier_elite_character_elite"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_grenadier_elite_character_elite"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_light_veteran_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_light_veteran_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_light_veteran_character_codex"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_light_veteran_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_rifleman_veteran_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_rifleman_veteran_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_soldier_dummy_test_graph_01"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_soldier_dummy_test_graph_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_toxic_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_toxic_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_cooling_unit_character"
+        ],
+        "mgraphobject": [
+          "rda_cooling_unit_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hydraulic_reservoir_weakpoint_non_npc_character"
+        ],
+        "mgraphobject": [
+          "rda_hydraulic_reservoir_weakpoint_non_npc_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_mq920_robotarmboss1_character"
+        ],
+        "mgraphobject": [
+          "rda_mq920_robotarmboss1_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_oil_drill_tower_weakpoint_non_npc_character"
+        ],
+        "mgraphobject": [
+          "rda_oil_drill_tower_weakpoint_non_npc_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_weatherballoon_sonarrepellent_a_character_prototype"
+        ],
+        "mgraphobject": [
+          "rda_weatherballoon_sonarrepellent_a_character_prototype"
+        ]
+      },
+      {
+        "ui_names": [
+          "rnf_character_01"
+        ],
+        "mgraphobject": [
+          "rnf_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "rnf_character_01_test"
+        ],
+        "mgraphobject": [
+          "rnf_character_01_test"
+        ]
+      },
+      {
+        "ui_names": [
+          "rnf_child_character_01"
+        ],
+        "mgraphobject": [
+          "rnf_child_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "rnf_elder_character_01_f"
+        ],
+        "mgraphobject": [
+          "rnf_elder_character_01_f"
+        ]
+      },
+      {
+        "ui_names": [
+          "rnf_gen_character_01"
+        ],
+        "mgraphobject": [
+          "rnf_gen_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "rnf_infant_character_01"
+        ],
+        "mgraphobject": [
+          "rnf_infant_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "samson_gunner_character"
+        ],
+        "mgraphobject": [
+          "samson_gunner_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "sfq01_wildlife_hexapede_spirit"
+        ],
+        "mgraphobject": [
+          "sfq01_wildlife_hexapede_spirit"
+        ]
+      },
+      {
+        "ui_names": [
+          "skeleton_rda_scorpion_base"
+        ],
+        "mgraphobject": [
+          "skeleton_rda_scorpion_base"
+        ]
+      },
+      {
+        "ui_names": [
+          "skeleton_vh_turret_anti_air_01"
+        ],
+        "mgraphobject": [
+          "skeleton_vh_turret_anti_air_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "skeleton_vh_turret_anti_air_01_v2_elite"
+        ],
+        "mgraphobject": [
+          "skeleton_vh_turret_anti_air_01_v2_elite"
+        ]
+      },
+      {
+        "ui_names": [
+          "skeleton_vh_turret_anti_air_01_v2_rookie"
+        ],
+        "mgraphobject": [
+          "skeleton_vh_turret_anti_air_01_v2_rookie"
+        ]
+      },
+      {
+        "ui_names": [
+          "skeleton_vh_turret_hmg_base_01"
+        ],
+        "mgraphobject": [
+          "skeleton_vh_turret_hmg_base_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "test character spider"
+        ],
+        "mgraphobject": [
+          "test character spider"
+        ]
+      },
+      {
+        "ui_names": [
+          "vehicle_scorpion_a"
+        ],
+        "mgraphobject": [
+          "vehicle_scorpion_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_amp_defender_sf_fire"
+        ],
+        "mgraphobject": [
+          "vh_amp_defender_sf_fire"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_amp_grenadier_sf_fire"
+        ],
+        "mgraphobject": [
+          "vh_amp_grenadier_sf_fire"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_comms_relay"
+        ],
+        "mgraphobject": [
+          "vh_comms_relay"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_01_npc"
+        ],
+        "mgraphobject": [
+          "vh_dragon_01_npc"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_01_npc_codex"
+        ],
+        "mgraphobject": [
+          "vh_dragon_01_npc_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_sf_fire"
+        ],
+        "mgraphobject": [
+          "vh_dragon_sf_fire"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_turret_frontbottom"
+        ],
+        "mgraphobject": [
+          "vh_dragon_turret_frontbottom"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_turret_fronttop"
+        ],
+        "mgraphobject": [
+          "vh_dragon_turret_fronttop"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_turret_rearbottom"
+        ],
+        "mgraphobject": [
+          "vh_dragon_turret_rearbottom"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_turret_rearbottom_right"
+        ],
+        "mgraphobject": [
+          "vh_dragon_turret_rearbottom_right"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_turret_reartop"
+        ],
+        "mgraphobject": [
+          "vh_dragon_turret_reartop"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_turret_reartop_right"
+        ],
+        "mgraphobject": [
+          "vh_dragon_turret_reartop_right"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_rda_amp_sciops"
+        ],
+        "mgraphobject": [
+          "vh_rda_amp_sciops"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_samson_01_deployment_character"
+        ],
+        "mgraphobject": [
+          "vh_samson_01_deployment_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_samson_01_rookie_character"
+        ],
+        "mgraphobject": [
+          "vh_samson_01_rookie_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_samson_01_rookie_character_cinematic"
+        ],
+        "mgraphobject": [
+          "vh_samson_01_rookie_character_cinematic"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_samson_01_rookie_character_mq240"
+        ],
+        "mgraphobject": [
+          "vh_samson_01_rookie_character_mq240"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_samson_01_veteran_character"
+        ],
+        "mgraphobject": [
+          "vh_samson_01_veteran_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_scorpion_01_character"
+        ],
+        "mgraphobject": [
+          "vh_scorpion_01_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_scorpion_01_character_cinematic"
+        ],
+        "mgraphobject": [
+          "vh_scorpion_01_character_cinematic"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_scorpion_01_elite_character"
+        ],
+        "mgraphobject": [
+          "vh_scorpion_01_elite_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_scorpion_01_rookie_character"
+        ],
+        "mgraphobject": [
+          "vh_scorpion_01_rookie_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_scorpion_01_rookie_character_wildlife_vs_rda"
+        ],
+        "mgraphobject": [
+          "vh_scorpion_01_rookie_character_wildlife_vs_rda"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_scorpion_sf_fire"
+        ],
+        "mgraphobject": [
+          "vh_scorpion_sf_fire"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flak"
+        ],
+        "mgraphobject": [
+          "vh_turret_flak"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flak_cannon_sf_fire"
+        ],
+        "mgraphobject": [
+          "vh_turret_flak_cannon_sf_fire"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flak_elite_codex"
+        ],
+        "mgraphobject": [
+          "vh_turret_flak_elite_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flak_v2_elite"
+        ],
+        "mgraphobject": [
+          "vh_turret_flak_v2_elite"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flak_v2_rookie"
+        ],
+        "mgraphobject": [
+          "vh_turret_flak_v2_rookie"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flak_v2_veteran_920"
+        ],
+        "mgraphobject": [
+          "vh_turret_flak_v2_veteran_920"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flak_veteran_codex"
+        ],
+        "mgraphobject": [
+          "vh_turret_flak_veteran_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flame_elite"
+        ],
+        "mgraphobject": [
+          "vh_turret_flame_elite"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flame_elite_char_codex"
+        ],
+        "mgraphobject": [
+          "vh_turret_flame_elite_char_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flame_rookie"
+        ],
+        "mgraphobject": [
+          "vh_turret_flame_rookie"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flame_sf_fire"
+        ],
+        "mgraphobject": [
+          "vh_turret_flame_sf_fire"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flame_veteran_char_codex"
+        ],
+        "mgraphobject": [
+          "vh_turret_flame_veteran_char_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_lmg"
+        ],
+        "mgraphobject": [
+          "vh_turret_lmg"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_lmg_rookie_codex"
+        ],
+        "mgraphobject": [
+          "vh_turret_lmg_rookie_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_lmg_v2_aubergine"
+        ],
+        "mgraphobject": [
+          "vh_turret_lmg_v2_aubergine"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_lmg_v2_elite"
+        ],
+        "mgraphobject": [
+          "vh_turret_lmg_v2_elite"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_lmg_v2_rookie"
+        ],
+        "mgraphobject": [
+          "vh_turret_lmg_v2_rookie"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_lmg_v2_sf_fire"
+        ],
+        "mgraphobject": [
+          "vh_turret_lmg_v2_sf_fire"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_lmg_veteran_codex"
+        ],
+        "mgraphobject": [
+          "vh_turret_lmg_veteran_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_aerialpredator"
+        ],
+        "mgraphobject": [
+          "wildlife_aerialpredator"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_aerialpredator_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_aerialpredator_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_aerialpredator_young"
+        ],
+        "mgraphobject": [
+          "wildlife_aerialpredator_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_armoredprey"
+        ],
+        "mgraphobject": [
+          "wildlife_armoredprey"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_armoredprey_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_armoredprey_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_armoredprey_young"
+        ],
+        "mgraphobject": [
+          "wildlife_armoredprey_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_armoredprey_young_polluted"
+        ],
+        "mgraphobject": [
+          "wildlife_armoredprey_young_polluted"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_banshee"
+        ],
+        "mgraphobject": [
+          "wildlife_banshee"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_banshee_female_navi_rider_temporary_01"
+        ],
+        "mgraphobject": [
+          "wildlife_banshee_female_navi_rider_temporary_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_banshee_mq330"
+        ],
+        "mgraphobject": [
+          "wildlife_banshee_mq330"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_banshee_veteran_icon"
+        ],
+        "mgraphobject": [
+          "wildlife_banshee_veteran_icon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_bully"
+        ],
+        "mgraphobject": [
+          "wildlife_bully"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_bully_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_bully_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_bully_young"
+        ],
+        "mgraphobject": [
+          "wildlife_bully_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_bully_young_polluted"
+        ],
+        "mgraphobject": [
+          "wildlife_bully_young_polluted"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_character_banshee_friendly_with_rider"
+        ],
+        "mgraphobject": [
+          "wildlife_character_banshee_friendly_with_rider"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_character_direhorse_friendly_with_rider"
+        ],
+        "mgraphobject": [
+          "wildlife_character_direhorse_friendly_with_rider"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_chameleon"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_chameleon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_chameleon_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_chameleon_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_chameleon_young"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_chameleon_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_range"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_range"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_range_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_range_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_range_young"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_range_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_scavenger"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_scavenger"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_scavenger_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_scavenger_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_scavenger_young"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_scavenger_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_female_navi_rider_temporary_01"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_female_navi_rider_temporary_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_no_vfx"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_no_vfx"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_sidequest1"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_sidequest1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_young"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_gentlegiant"
+        ],
+        "mgraphobject": [
+          "wildlife_gentlegiant"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hammerhead"
+        ],
+        "mgraphobject": [
+          "wildlife_hammerhead"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hammerhead_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_hammerhead_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hammerhead_young"
+        ],
+        "mgraphobject": [
+          "wildlife_hammerhead_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hexapede"
+        ],
+        "mgraphobject": [
+          "wildlife_hexapede"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hexapede_t1"
+        ],
+        "mgraphobject": [
+          "wildlife_hexapede_t1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hexapede_t3"
+        ],
+        "mgraphobject": [
+          "wildlife_hexapede_t3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hovercheetah"
+        ],
+        "mgraphobject": [
+          "wildlife_hovercheetah"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hovercheetah_feral"
+        ],
+        "mgraphobject": [
+          "wildlife_hovercheetah_feral"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hovercheetah_feral_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_hovercheetah_feral_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hovercheetah_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_hovercheetah_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hovercheetah_young"
+        ],
+        "mgraphobject": [
+          "wildlife_hovercheetah_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hyperdeer"
+        ],
+        "mgraphobject": [
+          "wildlife_hyperdeer"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hyperdeer_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_hyperdeer_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hyperdeer_young"
+        ],
+        "mgraphobject": [
+          "wildlife_hyperdeer_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_kinglore_character"
+        ],
+        "mgraphobject": [
+          "wildlife_kinglore_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_kinglorqueen_character"
+        ],
+        "mgraphobject": [
+          "wildlife_kinglorqueen_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat_feral"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat_feral"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat_feral_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat_feral_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat_young"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_meerdeer"
+        ],
+        "mgraphobject": [
+          "wildlife_meerdeer"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_meerdeer_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_meerdeer_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_meerdeer_young"
+        ],
+        "mgraphobject": [
+          "wildlife_meerdeer_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_soundcolossus"
+        ],
+        "mgraphobject": [
+          "wildlife_soundcolossus"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_soundcolossus_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_soundcolossus_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_soundcolossus_young"
+        ],
+        "mgraphobject": [
+          "wildlife_soundcolossus_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_sturmbeest"
+        ],
+        "mgraphobject": [
+          "wildlife_sturmbeest"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_sturmbeest_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_sturmbeest_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_sturmbeest_young"
+        ],
+        "mgraphobject": [
+          "wildlife_sturmbeest_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_sturmbeest_young_polluted"
+        ],
+        "mgraphobject": [
+          "wildlife_sturmbeest_young_polluted"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_tetrapteron_big"
+        ],
+        "mgraphobject": [
+          "wildlife_tetrapteron_big"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_tetrapteron_big_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_tetrapteron_big_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_tetrapteron_big_young"
+        ],
+        "mgraphobject": [
+          "wildlife_tetrapteron_big_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_feral"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_feral"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_feral_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_feral_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_hybrid"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_hybrid"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_legendary"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_legendary"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_territorial_forest"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_territorial_forest"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_territorial_highlands"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_territorial_highlands"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_territorial_wetlands"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_territorial_wetlands"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_territorial_whitemoss"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_territorial_whitemoss"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_young"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_tracker"
+        ],
+        "mgraphobject": [
+          "wildlife_tracker"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_viperwolf"
+        ],
+        "mgraphobject": [
+          "wildlife_viperwolf"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_viperwolf_feral"
+        ],
+        "mgraphobject": [
+          "wildlife_viperwolf_feral"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_viperwolf_feral_blue"
+        ],
+        "mgraphobject": [
+          "wildlife_viperwolf_feral_blue"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_viperwolf_feral_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_viperwolf_feral_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_viperwolf_feral_veteran_blue"
+        ],
+        "mgraphobject": [
+          "wildlife_viperwolf_feral_veteran_blue"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_viperwolf_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_viperwolf_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_viperwolf_young"
+        ],
+        "mgraphobject": [
+          "wildlife_viperwolf_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildliferider_character_banshee_friendly_with_rider"
+        ],
+        "mgraphobject": [
+          "wildliferider_character_banshee_friendly_with_rider"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildliferider_character_banshee_friendly_with_rider_veldt"
+        ],
+        "mgraphobject": [
+          "wildliferider_character_banshee_friendly_with_rider_veldt"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildliferider_character_direhorse_friendly_with_rider"
+        ],
+        "mgraphobject": [
+          "wildliferider_character_direhorse_friendly_with_rider"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_colourvariant_01"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_colourvariant_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_colourvariant_02"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_colourvariant_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mina"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mina"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_a1_tsutey"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_a1_tsutey"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_a2_jake"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_a2_jake"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_a2_neytiri"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_a2_neytiri"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_a3_ash"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_a3_ash"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_nomadic_01"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_nomadic_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_rainforest_01"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_rainforest_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_rasi_01"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_rasi_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_resistance01"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_resistance01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_temperate_01"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_temperate_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_tundra_01"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_tundra_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_cosmetic_veldt_01"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_cosmetic_veldt_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_mq330_with_catcher"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_mq330_with_catcher"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_t1"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_t1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_neyan"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_neyan"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_nusya"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_nusya"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_solek"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_solek"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_t1"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_t1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_t1_v2"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_t1_v2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_t2"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_t2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_t3"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_t3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_t4"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_t4"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_t5"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_t5"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_t6"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_t6"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_talu"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_talu"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_temperate"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_temperate"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_veldt"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_veldt"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_zomey"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_zomey"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_zakru_pasuk_journal_01"
+        ],
+        "mgraphobject": [
+          "wl_zakru_pasuk_journal_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_zakru_right_01_character"
+        ],
+        "mgraphobject": [
+          "wl_zakru_right_01_character"
+        ]
+      }
+    ],
+    "dlc1": [
+      {
+        "ui_names": [
+          "dlc1_gp_ingredient_valkyriethruster_weakpoint_character"
+        ],
+        "mgraphobject": [
+          "dlc1_gp_ingredient_valkyriethruster_weakpoint_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc1_navi_npc_diegeticmusician"
+        ],
+        "mgraphobject": [
+          "dlc1_navi_npc_diegeticmusician"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc1_vh_dragon_cin"
+        ],
+        "mgraphobject": [
+          "dlc1_vh_dragon_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc1_wl_banshee_character_solek"
+        ],
+        "mgraphobject": [
+          "dlc1_wl_banshee_character_solek"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_amp_commando_boss_character"
+        ],
+        "mgraphobject": [
+          "rda_amp_commando_boss_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_amp_commando_boss_character_dlc_codex"
+        ],
+        "mgraphobject": [
+          "rda_amp_commando_boss_character_dlc_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_defender_boss_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_defender_boss_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_defender_boss_character_dlc_codex"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_defender_boss_character_dlc_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_grenadier_03_boss_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_grenadier_03_boss_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_grenadier_03_boss_character_dlc_cin"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_grenadier_03_boss_character_dlc_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_grenadier_03_boss_character_dlc_codex"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_grenadier_03_boss_character_dlc_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_harding_boss_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_harding_boss_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_pyro_boss_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_pyro_boss_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_pyro_boss_character_dlc_cin"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_pyro_boss_character_dlc_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_pyro_boss_character_dlc_codex"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_pyro_boss_character_dlc_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_aerialpredator_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_aerialpredator_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_aerialpredator_veteran_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_aerialpredator_veteran_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_armoredprey_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_armoredprey_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_armoredprey_veteran_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_armoredprey_veteran_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_armoredprey_young_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_armoredprey_young_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_scavenger_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_scavenger_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_scavenger_veteran_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_scavenger_veteran_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_dlc1_painted_01"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_dlc1_painted_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_dlc1_painted_02"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_dlc1_painted_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_veteran_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_veteran_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hovercheetah_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_hovercheetah_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hovercheetah_legendary_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_hovercheetah_legendary_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hovercheetah_veteran_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_hovercheetah_veteran_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hyperdeer_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_hyperdeer_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hyperdeer_veteran_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_hyperdeer_veteran_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hyperdeer_young_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_hyperdeer_young_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_soundcolossus_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_soundcolossus_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_soundcolossus_legendary_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_soundcolossus_legendary_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_soundcolossus_veteran_dlc1"
+        ],
+        "mgraphobject": [
+          "wildlife_soundcolossus_veteran_dlc1"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_tetrapteron_big_veteran_small"
+        ],
+        "mgraphobject": [
+          "wildlife_tetrapteron_big_veteran_small"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_dlc1_t5"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_dlc1_t5"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_dlc1_t6"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_dlc1_t6"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_colorrandomized"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_colorrandomized"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_dlc1_02"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_dlc1_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_dlc1_cin"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_dlc1_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_hunterguide"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_hunterguide"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_matkamela"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_matkamela"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_nangita"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_nangita"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_nopsi"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_nopsi"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_peacock_onfire"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_peacock_onfire"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_wenc_blue"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_wenc_blue"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_wenc_grey"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_wenc_grey"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_wenc_red"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_wenc_red"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_wenc_yellow"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_wenc_yellow"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildliferider_character_direhorse_friendly_with_rider_dlc1"
+        ],
+        "mgraphobject": [
+          "wildliferider_character_direhorse_friendly_with_rider_dlc1"
+        ]
+      }
+    ],
+    "dlc2": [
+      {
+        "ui_names": [
+          "dlc2_dragon_rotor_weakpoint_character"
+        ],
+        "mgraphobject": [
+          "dlc2_dragon_rotor_weakpoint_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc2_valkyrie_cargo_weakpoint_character"
+        ],
+        "mgraphobject": [
+          "dlc2_valkyrie_cargo_weakpoint_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc2_valkyrie_engine_weakpoint_character"
+        ],
+        "mgraphobject": [
+          "dlc2_valkyrie_engine_weakpoint_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc2_wl_banshee_character_solek"
+        ],
+        "mgraphobject": [
+          "dlc2_wl_banshee_character_solek"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_elite_01_codex"
+        ],
+        "mgraphobject": [
+          "vh_dragon_elite_01_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_elite_01_npc"
+        ],
+        "mgraphobject": [
+          "vh_dragon_elite_01_npc"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_elite_01_turret_frontbottom"
+        ],
+        "mgraphobject": [
+          "vh_dragon_elite_01_turret_frontbottom"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_elite_01_turret_fronttop"
+        ],
+        "mgraphobject": [
+          "vh_dragon_elite_01_turret_fronttop"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_elite_01_turret_reartop"
+        ],
+        "mgraphobject": [
+          "vh_dragon_elite_01_turret_reartop"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_elite_01_turret_reartop_right"
+        ],
+        "mgraphobject": [
+          "vh_dragon_elite_01_turret_reartop_right"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_elite_turret_rearbottom"
+        ],
+        "mgraphobject": [
+          "vh_dragon_elite_turret_rearbottom"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_samson_elite_01_character"
+        ],
+        "mgraphobject": [
+          "vh_samson_elite_01_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_samson_elite_01_character_codex"
+        ],
+        "mgraphobject": [
+          "vh_samson_elite_01_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_scorpion_grenadier_01_character"
+        ],
+        "mgraphobject": [
+          "vh_scorpion_grenadier_01_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_scorpion_grenadier_01_character_codex"
+        ],
+        "mgraphobject": [
+          "vh_scorpion_grenadier_01_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_scorpion_hunter_01_character"
+        ],
+        "mgraphobject": [
+          "vh_scorpion_hunter_01_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_scorpion_hunter_01_character_codex"
+        ],
+        "mgraphobject": [
+          "vh_scorpion_hunter_01_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_valkyrie_01_character"
+        ],
+        "mgraphobject": [
+          "vh_valkyrie_01_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_valkyrie_01_character_cin"
+        ],
+        "mgraphobject": [
+          "vh_valkyrie_01_character_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_valkyrie_01_character_codex"
+        ],
+        "mgraphobject": [
+          "vh_valkyrie_01_character_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_valkyrie_aa_01"
+        ],
+        "mgraphobject": [
+          "vh_valkyrie_aa_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_valkyrie_rocketturret_01"
+        ],
+        "mgraphobject": [
+          "vh_valkyrie_rocketturret_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_aerialpredator_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_aerialpredator_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_aerialpredator_legendary_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_aerialpredator_legendary_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_aerialpredator_veteran_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_aerialpredator_veteran_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_banshee_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_banshee_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_banshee_dlc2_sqb30"
+        ],
+        "mgraphobject": [
+          "wildlife_banshee_dlc2_sqb30"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_bully_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_bully_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_bully_dlc2_legendary"
+        ],
+        "mgraphobject": [
+          "wildlife_bully_dlc2_legendary"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_bully_dlc2_sick"
+        ],
+        "mgraphobject": [
+          "wildlife_bully_dlc2_sick"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_bully_dlc2_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_bully_dlc2_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_bully_polluted_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_bully_polluted_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_chiroptera"
+        ],
+        "mgraphobject": [
+          "wildlife_chiroptera"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_chiroptera_legendary"
+        ],
+        "mgraphobject": [
+          "wildlife_chiroptera_legendary"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_chiroptera_legendary_mqb40"
+        ],
+        "mgraphobject": [
+          "wildlife_chiroptera_legendary_mqb40"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_chiroptera_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_chiroptera_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_chameleon_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_chameleon_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_chameleon_dlc2_legendary"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_chameleon_dlc2_legendary"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_chameleon_dlc2_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_chameleon_dlc2_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_range_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_range_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_range_legendary_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_range_legendary_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_crawler_range_veteran_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_crawler_range_veteran_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat_legendary_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat_legendary_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat_veteran_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat_veteran_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_meerdeer_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_meerdeer_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_meerdeer_dlc2_sick"
+        ],
+        "mgraphobject": [
+          "wildlife_meerdeer_dlc2_sick"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_meerdeer_legendary_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_meerdeer_legendary_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_meerdeer_veteran_dlc2"
+        ],
+        "mgraphobject": [
+          "wildlife_meerdeer_veteran_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_meerdeer_veteran_dlc2_cin"
+        ],
+        "mgraphobject": [
+          "wildlife_meerdeer_veteran_dlc2_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildliferider_character_banshee_friendly_with_rider_temperate_dlc2"
+        ],
+        "mgraphobject": [
+          "wildliferider_character_banshee_friendly_with_rider_temperate_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_anufi_dlc2"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_anufi_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_rinela_dlc2"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_rinela_dlc2"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_tsulo_dlc2"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_tsulo_dlc2"
+        ]
+      }
+    ],
+    "dlc3": [
+      {
+        "ui_names": [
+          "ash_boss_sniper_character"
+        ],
+        "mgraphobject": [
+          "ash_boss_sniper_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "ash_character_bulky_01"
+        ],
+        "mgraphobject": [
+          "ash_character_bulky_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "ash_grunt_character_01"
+        ],
+        "mgraphobject": [
+          "ash_grunt_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "ash_npc_character_01"
+        ],
+        "mgraphobject": [
+          "ash_npc_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_companion_imported_tamtey"
+        ],
+        "mgraphobject": [
+          "dlc3_companion_imported_tamtey"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_companion_navi_npc_character"
+        ],
+        "mgraphobject": [
+          "dlc3_companion_navi_npc_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_dragon_rotor_bl_weakpoint_character"
+        ],
+        "mgraphobject": [
+          "dlc3_dragon_rotor_bl_weakpoint_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_dragon_rotor_br_weakpoint_character"
+        ],
+        "mgraphobject": [
+          "dlc3_dragon_rotor_br_weakpoint_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_dragon_rotor_fl_weakpoint_character"
+        ],
+        "mgraphobject": [
+          "dlc3_dragon_rotor_fl_weakpoint_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_dragon_rotor_fr_weakpoint_character"
+        ],
+        "mgraphobject": [
+          "dlc3_dragon_rotor_fr_weakpoint_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_dragon_rotor_weakpoint_character"
+        ],
+        "mgraphobject": [
+          "dlc3_dragon_rotor_weakpoint_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_navi_npc_character_01"
+        ],
+        "mgraphobject": [
+          "dlc3_navi_npc_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_navi_npc_two_navi_nor_character_01"
+        ],
+        "mgraphobject": [
+          "dlc3_navi_npc_two_navi_nor_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_navi_npc_two_navi_nor_character_gameplay"
+        ],
+        "mgraphobject": [
+          "dlc3_navi_npc_two_navi_nor_character_gameplay"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_rda_mastodon_device_belly_character"
+        ],
+        "mgraphobject": [
+          "dlc3_rda_mastodon_device_belly_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_rda_mastodon_device_breathinghole_character"
+        ],
+        "mgraphobject": [
+          "dlc3_rda_mastodon_device_breathinghole_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_rda_mastodon_device_foot_character"
+        ],
+        "mgraphobject": [
+          "dlc3_rda_mastodon_device_foot_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_rda_samson_hellhound_deployment_character"
+        ],
+        "mgraphobject": [
+          "dlc3_rda_samson_hellhound_deployment_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_rda_samson_hellhoundeployment_lt"
+        ],
+        "mgraphobject": [
+          "dlc3_rda_samson_hellhoundeployment_lt"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_rda_samson_hellhoundeployment_rt"
+        ],
+        "mgraphobject": [
+          "dlc3_rda_samson_hellhoundeployment_rt"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_saturn_ca_rdabase001_lasercannon"
+        ],
+        "mgraphobject": [
+          "dlc3_saturn_ca_rdabase001_lasercannon"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_wildlife_banshee_beast_master"
+        ],
+        "mgraphobject": [
+          "dlc3_wildlife_banshee_beast_master"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_wildlife_banshee_player_mount_two_navi"
+        ],
+        "mgraphobject": [
+          "dlc3_wildlife_banshee_player_mount_two_navi"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_wildlife_banshee_two_navi_rider_nor"
+        ],
+        "mgraphobject": [
+          "dlc3_wildlife_banshee_two_navi_rider_nor"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_wl_banshee_character_ash_02"
+        ],
+        "mgraphobject": [
+          "dlc3_wl_banshee_character_ash_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_wl_banshee_character_mount_ash_01"
+        ],
+        "mgraphobject": [
+          "dlc3_wl_banshee_character_mount_ash_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "hellhound_deployment_rack_prototype"
+        ],
+        "mgraphobject": [
+          "hellhound_deployment_rack_prototype"
+        ]
+      },
+      {
+        "ui_names": [
+          "navi_npc_ash_beast_master"
+        ],
+        "mgraphobject": [
+          "navi_npc_ash_beast_master"
+        ]
+      },
+      {
+        "ui_names": [
+          "navi_skelsuit_pbd_profiles"
+        ],
+        "mgraphobject": [
+          "navi_skelsuit_pbd_profiles"
+        ]
+      },
+      {
+        "ui_names": [
+          "p_character_solek"
+        ],
+        "mgraphobject": [
+          "p_character_solek"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_ampsuit_rifleman_finisher_proto_character"
+        ],
+        "mgraphobject": [
+          "rda_ampsuit_rifleman_finisher_proto_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_bomber"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_bomber"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_bomber_elite"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_bomber_elite"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_bomber_elite_codex"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_bomber_elite_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_bomber_rookie"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_bomber_rookie"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_bomber_rookie_codex"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_bomber_rookie_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_bomber_veteran"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_bomber_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_bomber_veteran_codex"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_bomber_veteran_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_deploystation"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_deploystation"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_melee"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_melee"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_melee_elite"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_melee_elite"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_melee_elite_cine"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_melee_elite_cine"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_melee_elite_codex"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_melee_elite_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_melee_rookie"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_melee_rookie"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_melee_rookie_codex"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_melee_rookie_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_melee_veteran"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_melee_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_melee_veteran_codex"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_melee_veteran_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_hellhound_scout"
+        ],
+        "mgraphobject": [
+          "rda_hellhound_scout"
+        ]
+      },
+      {
+        "ui_names": [
+          "samson_gunner_character_dlc3"
+        ],
+        "mgraphobject": [
+          "samson_gunner_character_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "targetdummy_wildlife_mastodon"
+        ],
+        "mgraphobject": [
+          "targetdummy_wildlife_mastodon"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_amp_basebody_character_01"
+        ],
+        "mgraphobject": [
+          "vh_max_amp_basebody_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_amp_basebody_character_01_cin_only"
+        ],
+        "mgraphobject": [
+          "vh_max_amp_basebody_character_01_cin_only"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_amp_basebody_pyro_character_01_cin_only"
+        ],
+        "mgraphobject": [
+          "vh_max_amp_basebody_pyro_character_01_cin_only"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_amp_basebody_rpg_character_01_cin_only"
+        ],
+        "mgraphobject": [
+          "vh_max_amp_basebody_rpg_character_01_cin_only"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_amp_light_02"
+        ],
+        "mgraphobject": [
+          "vh_max_amp_light_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_amp_light_03"
+        ],
+        "mgraphobject": [
+          "vh_max_amp_light_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_amp_light_character_01"
+        ],
+        "mgraphobject": [
+          "vh_max_amp_light_character_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_dragon_elite_01_npc"
+        ],
+        "mgraphobject": [
+          "vh_max_dragon_elite_01_npc"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_dragon_elite_01_turret_frontbottom"
+        ],
+        "mgraphobject": [
+          "vh_max_dragon_elite_01_turret_frontbottom"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_dragon_elite_01_turret_fronttop"
+        ],
+        "mgraphobject": [
+          "vh_max_dragon_elite_01_turret_fronttop"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_dragon_elite_01_turret_reartop"
+        ],
+        "mgraphobject": [
+          "vh_max_dragon_elite_01_turret_reartop"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_dragon_elite_01_turret_reartop_right"
+        ],
+        "mgraphobject": [
+          "vh_max_dragon_elite_01_turret_reartop_right"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_dragon_elite_codex"
+        ],
+        "mgraphobject": [
+          "vh_max_dragon_elite_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_dragon_elite_turret_rearbottom"
+        ],
+        "mgraphobject": [
+          "vh_max_dragon_elite_turret_rearbottom"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_scorpion_grenadier_01_character"
+        ],
+        "mgraphobject": [
+          "vh_max_scorpion_grenadier_01_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_scorpion_grenadier_rakx_character"
+        ],
+        "mgraphobject": [
+          "vh_max_scorpion_grenadier_rakx_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_scorpion_grenadier_rookie_character"
+        ],
+        "mgraphobject": [
+          "vh_max_scorpion_grenadier_rookie_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_scorpion_hunter_01_character"
+        ],
+        "mgraphobject": [
+          "vh_max_scorpion_hunter_01_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_scorpion_hunter_01_character_rookie"
+        ],
+        "mgraphobject": [
+          "vh_max_scorpion_hunter_01_character_rookie"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_max_turret_lmg_v2_elite"
+        ],
+        "mgraphobject": [
+          "vh_max_turret_lmg_v2_elite"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_rda_turret_flak_elite_codex"
+        ],
+        "mgraphobject": [
+          "vh_rda_turret_flak_elite_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_rda_turret_flak_veteran_codex"
+        ],
+        "mgraphobject": [
+          "vh_rda_turret_flak_veteran_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_rda_turret_flame_elite_codex"
+        ],
+        "mgraphobject": [
+          "vh_rda_turret_flame_elite_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_rda_turret_flame_veteran_codex"
+        ],
+        "mgraphobject": [
+          "vh_rda_turret_flame_veteran_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_rda_turret_sentry_rookie_codex"
+        ],
+        "mgraphobject": [
+          "vh_rda_turret_sentry_rookie_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_rda_turret_sentry_veteran_codex"
+        ],
+        "mgraphobject": [
+          "vh_rda_turret_sentry_veteran_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_samson_veteran_mqc010_character"
+        ],
+        "mgraphobject": [
+          "vh_samson_veteran_mqc010_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_samson_veteran_mqc010_character_cin"
+        ],
+        "mgraphobject": [
+          "vh_samson_veteran_mqc010_character_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_skelsuit_bukowski_01"
+        ],
+        "mgraphobject": [
+          "vh_skelsuit_bukowski_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_skelsuit_human_01"
+        ],
+        "mgraphobject": [
+          "vh_skelsuit_human_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_skelsuit_human_codex"
+        ],
+        "mgraphobject": [
+          "vh_skelsuit_human_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_skelsuit_navi_01"
+        ],
+        "mgraphobject": [
+          "vh_skelsuit_navi_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flame_elite_dlc3"
+        ],
+        "mgraphobject": [
+          "vh_turret_flame_elite_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flame_veteran_dlc3"
+        ],
+        "mgraphobject": [
+          "vh_turret_flame_veteran_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_lmg_v2_rookie_cin_only"
+        ],
+        "mgraphobject": [
+          "vh_turret_lmg_v2_rookie_cin_only"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_aerialpredator_veteran_toruk_cin"
+        ],
+        "mgraphobject": [
+          "wildlife_aerialpredator_veteran_toruk_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_banshee_veteran_codex"
+        ],
+        "mgraphobject": [
+          "wildlife_banshee_veteran_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_cinematic_mastodon"
+        ],
+        "mgraphobject": [
+          "wildlife_cinematic_mastodon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_deploystation_final"
+        ],
+        "mgraphobject": [
+          "wildlife_deploystation_final"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_devicetrigger_back"
+        ],
+        "mgraphobject": [
+          "wildlife_devicetrigger_back"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_devicetrigger_belly"
+        ],
+        "mgraphobject": [
+          "wildlife_devicetrigger_belly"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_devicetrigger_breathhole"
+        ],
+        "mgraphobject": [
+          "wildlife_devicetrigger_breathhole"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_devicetrigger_leg"
+        ],
+        "mgraphobject": [
+          "wildlife_devicetrigger_leg"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_ravine_dlc3"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_ravine_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_direhorse_veteran_ravine_dlc3"
+        ],
+        "mgraphobject": [
+          "wildlife_direhorse_veteran_ravine_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_gondola"
+        ],
+        "mgraphobject": [
+          "wildlife_gondola"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hexapede_dlc3"
+        ],
+        "mgraphobject": [
+          "wildlife_hexapede_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_hyperdeer_dlc3"
+        ],
+        "mgraphobject": [
+          "wildlife_hyperdeer_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat_dlc3"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat_legendary_dlc3"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat_legendary_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_landbat_veteran_dlc3"
+        ],
+        "mgraphobject": [
+          "wildlife_landbat_veteran_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_mastodon"
+        ],
+        "mgraphobject": [
+          "wildlife_mastodon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_mastodon_codex"
+        ],
+        "mgraphobject": [
+          "wildlife_mastodon_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_medusa"
+        ],
+        "mgraphobject": [
+          "wildlife_medusa"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_medusa_codex"
+        ],
+        "mgraphobject": [
+          "wildlife_medusa_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_soothing_mastodon"
+        ],
+        "mgraphobject": [
+          "wildlife_soothing_mastodon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_soundcolossus_heartlands_dlc3_sqca010"
+        ],
+        "mgraphobject": [
+          "wildlife_soundcolossus_heartlands_dlc3_sqca010"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_sturmbeest_dlc3"
+        ],
+        "mgraphobject": [
+          "wildlife_sturmbeest_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_ash_feral_a"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_ash_feral_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_ash_feral_b"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_ash_feral_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_ash_feral_veteran_a"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_ash_feral_veteran_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_thanator_ash_feral_veteran_b"
+        ],
+        "mgraphobject": [
+          "wildlife_thanator_ash_feral_veteran_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_viperwolf_ash_feral_a"
+        ],
+        "mgraphobject": [
+          "wildlife_viperwolf_ash_feral_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_viperwolf_ash_feral_veteran_a"
+        ],
+        "mgraphobject": [
+          "wildlife_viperwolf_ash_feral_veteran_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_viperwolf_ash_feral_veteran_b"
+        ],
+        "mgraphobject": [
+          "wildlife_viperwolf_ash_feral_veteran_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_windray"
+        ],
+        "mgraphobject": [
+          "wildlife_windray"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_windray_codex"
+        ],
+        "mgraphobject": [
+          "wildlife_windray_codex"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_windray_sqcw020"
+        ],
+        "mgraphobject": [
+          "wildlife_windray_sqcw020"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_hunterguide_dlc3"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_hunterguide_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_zakru_nopsi_dlc3"
+        ],
+        "mgraphobject": [
+          "wildlife_zakru_nopsi_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_01_dlc3_cin"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_01_dlc3_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_02_dlc3_cin"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_02_dlc3_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_03_dlc3_cin"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_03_dlc3_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_04_dlc3_cin"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_04_dlc3_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_05_dlc3_cin"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_05_dlc3_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_06_dlc3_cin"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_06_dlc3_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_07_dlc3_cin"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_07_dlc3_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_08_dlc3_cin"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_08_dlc3_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_09_dlc3_cin"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_09_dlc3_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_10_dlc3_cin"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_10_dlc3_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_kukulope_dlc3"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_kukulope_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_leykuni_dlc3"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_leykuni_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mamante_dlc3"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mamante_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_mount_t1_dlc3"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_mount_t1_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_nor_dlc3"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_nor_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_rinela_dlc3"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_rinela_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_tamtey_dlc3"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_tamtey_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_teylan_dlc3"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_teylan_dlc3"
+        ]
+      },
+      {
+        "ui_names": [
+          "wl_banshee_character_wawen_dlc3"
+        ],
+        "mgraphobject": [
+          "wl_banshee_character_wawen_dlc3"
+        ]
+      }
+    ],
+    "rogue": [
+      {
+        "ui_names": [
+          "hexapede_character"
+        ],
+        "mgraphobject": [
+          "hexapede_character"
+        ]
+      },
+      {
+        "ui_names": [
+          "narrative_target_graph"
+        ],
+        "mgraphobject": [
+          "narrative_target_graph"
+        ]
+      },
+      {
+        "ui_names": [
+          "roguecharacter"
+        ],
+        "mgraphobject": [
+          "roguecharacter"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_banshee_veteran"
+        ],
+        "mgraphobject": [
+          "wildlife_banshee_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wildlife_banshee_young"
+        ],
+        "mgraphobject": [
+          "wildlife_banshee_young"
+        ]
+      }
+    ]
+  }
+}

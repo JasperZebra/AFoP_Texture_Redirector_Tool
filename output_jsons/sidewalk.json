@@ -1,0 +1,14 @@
+{
+  "sidewalk": {
+    "rogue": [
+      {
+        "ui_names": [
+          "default_sidewalk"
+        ],
+        "mgraphobject": [
+          "default_sidewalk"
+        ]
+      }
+    ]
+  }
+}

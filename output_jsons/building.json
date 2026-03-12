@@ -1,0 +1,14 @@
+{
+  "building": {
+    "rogue": [
+      {
+        "ui_names": [
+          "default_building"
+        ],
+        "mgraphobject": [
+          "default_building"
+        ]
+      }
+    ]
+  }
+}

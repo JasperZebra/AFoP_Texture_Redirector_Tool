@@ -1,0 +1,5814 @@
+{
+  "weapon": {
+    "base_game": [
+      {
+        "ui_names": [
+          "amp takedown protoype"
+        ],
+        "mgraphobject": [
+          "amp takedown protoype"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_wpn_muzzleflash_samson_cal50_left"
+        ],
+        "mgraphobject": [
+          "fx_wpn_muzzleflash_samson_cal50_left"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_wpn_muzzleflash_samson_cal50_right"
+        ],
+        "mgraphobject": [
+          "fx_wpn_muzzleflash_samson_cal50_right"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_wpn_muzzleflash_scorpion_cal50"
+        ],
+        "mgraphobject": [
+          "fx_wpn_muzzleflash_scorpion_cal50"
+        ]
+      },
+      {
+        "ui_names": [
+          "gp_ingredient_dragon_lever"
+        ],
+        "mgraphobject": [
+          "gp_ingredient_dragon_lever"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable mimetic template lift 360 gradient setup"
+        ],
+        "mgraphobject": [
+          "harvestable mimetic template lift 360 gradient setup"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_aerialpredator_heavy_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_aerialpredator_heavy_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_aerialpredatoregg_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_aerialpredatoregg_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_aerialpredatoregg_mimetic_heavy"
+        ],
+        "mgraphobject": [
+          "harvestable_aerialpredatoregg_mimetic_heavy"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_aerialpredatoregg_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_aerialpredatoregg_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_aerialroot_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_aerialroot_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_aerialroot_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_aerialroot_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_alistairpod_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_alistairpod_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_alistairpod_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_alistairpod_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_angelberry_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_angelberry_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_angelberry_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_angelberry_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_anthoney_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_anthoney_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_antnectar_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_antnectar_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_bamboostick_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_bamboostick_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_bamboostick_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_bamboostick_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_barkfruit_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_barkfruit_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_barkfruit_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_barkfruit_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_bloodbark_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_bloodbark_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_bloodbark_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_bloodbark_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_bogegg_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_bogegg_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_bogshell_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_bogshell_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_bogshell_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_bogshell_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_bogstick_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_bogstick_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_bogstick_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_bogstick_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_botraltcrystal_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_botraltcrystal_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_brittlebone_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_brittlebone_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_brittlebone_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_brittlebone_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_canaryfruit_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_canaryfruit_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_canestalk_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_canestalk_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_cenobiumcrystal_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_cenobiumcrystal_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_chainharvestfungi_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_chainharvestfungi_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_chainharvestfungi_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_chainharvestfungi_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_chaseegg_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_chaseegg_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_chaseegg_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_chaseegg_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_chasefruit_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_chasefruit_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_chasefruit_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_chasefruit_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_chromocado_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_chromocado_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_chromocado_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_chromocado_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_clusterpine_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_clusterpine_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_clusterpinecone_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_clusterpinecone_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_crackedlizardbark_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_crackedlizardbark_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_crackedlizardbark_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_crackedlizardbark_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_darkspottedbark_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_darkspottedbark_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_darkspottedbark_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_darkspottedbark_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_elderbushseed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_elderbushseed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_elderbushseed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_elderbushseed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_ethermetal_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_ethermetal_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_fenmoss_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_fenmoss_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_fenmoss_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_fenmoss_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_firaseed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_firaseed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_firaseed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_firaseed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_fragilisfungi_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_fragilisfungi_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_fragilisfungi_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_fragilisfungi_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_fungusroot_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_fungusroot_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_fungusroot_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_fungusroot_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_fungustreebark_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_fungustreebark_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_fungustreebark_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_fungustreebark_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_gentleflower_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_gentleflower_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_gentleflower_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_gentleflower_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_ghostreed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_ghostreed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_goldenfig_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_goldenfig_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_goldenfig_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_goldenfig_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_grabberstick_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_grabberstick_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_grabberstick_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_grabberstick_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_haleresin_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_haleresin_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_haleresin_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_haleresin_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_hangingmushroom_celebration"
+        ],
+        "mgraphobject": [
+          "harvestable_hangingmushroom_celebration"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_hardenedresin_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_hardenedresin_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_hardenedresin_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_hardenedresin_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_heartyfungi_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_heartyfungi_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_heartymushroom_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_heartymushroom_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_honeycomb_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_honeycomb_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_kinglorsilk_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_kinglorsilk_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_kinglorsilk_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_kinglorsilk_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_knotseed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_knotseed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_knotseed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_knotseed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_lakeshell_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_lakeshell_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_lakeshell_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_lakeshell_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_leopardpalm_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_leopardpalm_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_leopardpalm_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_leopardpalm_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_lionberry_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_lionberry_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_lionberry_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_lionberry_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_lithebone_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_lithebone_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_lithebone_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_lithebone_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_luminousroot_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_luminousroot_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_luminousroot_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_luminousroot_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mangrovecone_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mangrovecone_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mangrovecone_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mangrovecone_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mangrovenectar_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mangrovenectar_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mangrovenectar_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mangrovenectar_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mistresin_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mistresin_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_monsteramelon_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_monsteramelon_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_moonjute_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_moonjute_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_moonwood_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_moonwood_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_moonwood_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_moonwood_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousbranch_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousbranch_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousbranch_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousbranch_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousegg_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousegg_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousegg_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousegg_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousfiber_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousfiber_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousfiber_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousfiber_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousfig_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousfig_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousfig_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousfig_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousmushroom_celebration"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousmushroom_celebration"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousnectar_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousnectar_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousnectar_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousnectar_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousreed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousreed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousreed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousreed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousroot_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousroot_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousroot_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousroot_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousseed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousseed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousseed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousseed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousshell_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousshell_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_mysteriousshell_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_mysteriousshell_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_nestegg_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_nestegg_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_nestegg_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_nestegg_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_neuronroot_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_neuronroot_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_neuronroot_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_neuronroot_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_orange-spotted_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_orange-spotted_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_orange-spottedlichen_grab_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_orange-spottedlichen_grab_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_orange-spottedlichen_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_orange-spottedlichen_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_overgrownexclusivefruit_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_overgrownexclusivefruit_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_parasiteroot_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_parasiteroot_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_parasiteroot_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_parasiteroot_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_petrifiedbone_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_petrifiedbone_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_petrifiedbone_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_petrifiedbone_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_plainshoney_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_plainshoney_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_plainsseed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_plainsseed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_plainsseed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_plainsseed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_purplelichen_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_purplelichen_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_purplemoss_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_purplemoss_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_quaqreed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_quaqreed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_rainforestfieryfruit_celebration"
+        ],
+        "mgraphobject": [
+          "harvestable_rainforestfieryfruit_celebration"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_rainforestnectar_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_rainforestnectar_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_rainforestseaweed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_rainforestseaweed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_redmushroom_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_redmushroom_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_redmushroom_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_redmushroom_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_riverreed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_riverreed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_riverreed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_riverreed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_rivershell_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_rivershell_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_rivershell_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_rivershell_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_rocksnectar_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_rocksnectar_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_rockspeakegg_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_rockspeakegg_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_seaweed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_seaweed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_seaweedtemperate_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_seaweedtemperate_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_seaweedveldt_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_seaweedveldt_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_solsdelight_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_solsdelight_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_solsdelight_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_solsdelight_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_sorashell_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_sorashell_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_sorashell_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_sorashell_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_springcone_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_springcone_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_springcone_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_springcone_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_stonybark_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_stonybark_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_stonybark_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_stonybark_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_stripedbark_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_stripedbark_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_stripedbark_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_stripedbark_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_sycophantmoss_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_sycophantmoss_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_sycophantmoss_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_sycophantmoss_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_tempalistair_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_tempalistair_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_tempalistair_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_tempalistair_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_temperateseaweed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_temperateseaweed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_treecottonball_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_treecottonball_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_treecottonball_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_treecottonball_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_veldtegg_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_veldtegg_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_veldtseaweed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_veldtseaweed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_veldtseed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_veldtseed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_veldtseed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_veldtseed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_verdantresin_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_verdantresin_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_verdantresin_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_verdantresin_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_watermoss_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_watermoss_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_watermoss_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_watermoss_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_windswept_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_windswept_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_windsweptreed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_windsweptreed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_woodlandcone_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_woodlandcone_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_woodlandcone_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_woodlandcone_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_yellowresin_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_yellowresin_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_youngwood_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_youngwood_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_youngwoodstick_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_youngwoodstick_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_zioniummetal_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_zioniummetal_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestble_ghostreed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestble_ghostreed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_aerialpredatorleanmeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_aerialpredatorleanmeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_armoredpreyfattymeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_armoredpreyfattymeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_bigtetrapteronleanmeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_bigtetrapteronleanmeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_bladderpolypherb_showcase"
+        ],
+        "mgraphobject": [
+          "item_bladderpolypherb_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_bullyleanmeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_bullyleanmeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_charmeleoncrawlerfattymeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_charmeleoncrawlerfattymeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_deltatreeherb_showcase"
+        ],
+        "mgraphobject": [
+          "item_deltatreeherb_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_dinicthoidmeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_dinicthoidmeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_hammerheadfattymeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_hammerheadfattymeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_harvestable_mistresin_mimetic"
+        ],
+        "mgraphobject": [
+          "item_harvestable_mistresin_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_harvestable_yellowresin_mimetic"
+        ],
+        "mgraphobject": [
+          "item_harvestable_yellowresin_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_hermitbudmilk_showcase"
+        ],
+        "mgraphobject": [
+          "item_hermitbudmilk_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_hexapedefattymeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_hexapedefattymeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_hovercheetahleanmeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_hovercheetahleanmeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_hyperdeerfattymeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_hyperdeerfattymeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_ilumeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_ilumeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_landbatleanmeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_landbatleanmeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_lionberrymilk_showcase"
+        ],
+        "mgraphobject": [
+          "item_lionberrymilk_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_meerdeerfattymeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_meerdeerfattymeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_rangedcrawlerfattymeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_rangedcrawlerfattymeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_sagittariameat_showcase"
+        ],
+        "mgraphobject": [
+          "item_sagittariameat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_scarabcrawlerfattymeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_scarabcrawlerfattymeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_soundblastcolossusfattymeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_soundblastcolossusfattymeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_spartanleafherb_showcase"
+        ],
+        "mgraphobject": [
+          "item_spartanleafherb_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_spinywhipherb_showcase"
+        ],
+        "mgraphobject": [
+          "item_spinywhipherb_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_sturmbeestfattymeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_sturmbeestfattymeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_thanatorleanmeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_thanatorleanmeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_thistlebudmilk_showcase"
+        ],
+        "mgraphobject": [
+          "item_thistlebudmilk_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_viperwolfleanmeat_showcase"
+        ],
+        "mgraphobject": [
+          "item_viperwolfleanmeat_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_zakrumilk_showcase"
+        ],
+        "mgraphobject": [
+          "item_zakrumilk_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "ld_ingredient_generic_lever_weapon"
+        ],
+        "mgraphobject": [
+          "ld_ingredient_generic_lever_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "ld_ingredient_generic_valve_weapon"
+        ],
+        "mgraphobject": [
+          "ld_ingredient_generic_valve_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "ld_ingredient_repair_point_weapon"
+        ],
+        "mgraphobject": [
+          "ld_ingredient_repair_point_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "ld_ingredient_sabotage_wire_weapon"
+        ],
+        "mgraphobject": [
+          "ld_ingredient_sabotage_wire_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "ld_ingredient_stungrenade_showcase"
+        ],
+        "mgraphobject": [
+          "ld_ingredient_stungrenade_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "mimetic template break visual prop 360"
+        ],
+        "mgraphobject": [
+          "mimetic template break visual prop 360"
+        ]
+      },
+      {
+        "ui_names": [
+          "mimetic template break visual prop"
+        ],
+        "mgraphobject": [
+          "mimetic template break visual prop"
+        ]
+      },
+      {
+        "ui_names": [
+          "mimetic template grab visual prop"
+        ],
+        "mgraphobject": [
+          "mimetic template grab visual prop"
+        ]
+      },
+      {
+        "ui_names": [
+          "mimetic template lift visual prop 360"
+        ],
+        "mgraphobject": [
+          "mimetic template lift visual prop 360"
+        ]
+      },
+      {
+        "ui_names": [
+          "mimetic template lift visual prop"
+        ],
+        "mgraphobject": [
+          "mimetic template lift visual prop"
+        ]
+      },
+      {
+        "ui_names": [
+          "mimetic template pluck visual prop 360"
+        ],
+        "mgraphobject": [
+          "mimetic template pluck visual prop 360"
+        ]
+      },
+      {
+        "ui_names": [
+          "mimetic template pluck visual prop"
+        ],
+        "mgraphobject": [
+          "mimetic template pluck visual prop"
+        ]
+      },
+      {
+        "ui_names": [
+          "mount_food_prototype_color"
+        ],
+        "mgraphobject": [
+          "mount_food_prototype_color"
+        ]
+      },
+      {
+        "ui_names": [
+          "mount_food_prototype_color_2"
+        ],
+        "mgraphobject": [
+          "mount_food_prototype_color_2"
+        ]
+      },
+      {
+        "ui_names": [
+          "mountfood_leanmeattreat_01"
+        ],
+        "mgraphobject": [
+          "mountfood_leanmeattreat_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mountfood_toughmeattreat_01"
+        ],
+        "mgraphobject": [
+          "mountfood_toughmeattreat_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mq920_vh_dragon_backgun"
+        ],
+        "mgraphobject": [
+          "mq920_vh_dragon_backgun"
+        ]
+      },
+      {
+        "ui_names": [
+          "mq920_vh_dragon_topgun"
+        ],
+        "mgraphobject": [
+          "mq920_vh_dragon_topgun"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_trinket_devtest_leaves"
+        ],
+        "mgraphobject": [
+          "mtx_trinket_devtest_leaves"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_trinket_devtest_pinkbear_01"
+        ],
+        "mgraphobject": [
+          "mtx_trinket_devtest_pinkbear_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_maximus_override_ashshotgun_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_maximus_override_ashshotgun_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_a2_legendary_navi_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_a2_legendary_navi_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_aranahe_legendary_navi_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_aranahe_legendary_navi_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_brand_rda_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_brand_rda_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_camouflagebow_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_camouflagebow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_mossbow_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_mossbow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_sailfingoliath_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_sailfingoliath_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_sar_heritage_navi_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_sar_heritage_navi_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_secops_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_secops_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_shortbow_prime_navi_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_shortbow_prime_navi_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_shotgun_rda_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_shotgun_rda_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_solek_rda_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_solek_rda_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_tap_bow_navi_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_tap_bow_navi_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_tmp_legendary_navi_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_tmp_legendary_navi_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_tmp_navi_02"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_tmp_navi_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_tmplegendary_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_tmplegendary_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_zeswa_legendary_navi_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_zeswa_legendary_navi_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_override_zeswanomad_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_override_zeswanomad_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_p_assault_rifle_skin_brand_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_p_assault_rifle_skin_brand_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_p_longbow_skin_dev_test_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_p_longbow_skin_dev_test_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_p_maximus_override_jakea1_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_p_maximus_override_jakea1_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_p_maximus_override_jakea2_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_p_maximus_override_jakea2_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_p_maximus_override_neytiri_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_p_maximus_override_neytiri_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_p_maximus_override_tsutey_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_p_maximus_override_tsutey_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_p_maximus_override_wukulaknife_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_p_maximus_override_wukulaknife_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_a1_inspired_rda_04"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_a1_inspired_rda_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_navi_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_navi_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_navi_02"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_navi_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_navi_03"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_navi_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_navi_04"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_navi_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_navi_05"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_navi_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_navi_06"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_navi_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_navi_07"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_navi_07"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_navi_08"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_navi_08"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_navi_09"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_navi_09"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_navi_10"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_navi_10"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_rda_01"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_rda_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_rda_02"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_rda_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_rda_03"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_rda_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_rda_05"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_rda_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "mtx_wpn_trinket_rda_06"
+        ],
+        "mgraphobject": [
+          "mtx_wpn_trinket_rda_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "planimal_aerialbomber_projectile_inair"
+        ],
+        "mgraphobject": [
+          "planimal_aerialbomber_projectile_inair"
+        ]
+      },
+      {
+        "ui_names": [
+          "planimal_aerialbomber_projectile_small_inair"
+        ],
+        "mgraphobject": [
+          "planimal_aerialbomber_projectile_small_inair"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_military_amp_flamethrower"
+        ],
+        "mgraphobject": [
+          "rda_military_amp_flamethrower"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_military_amp_gau-90"
+        ],
+        "mgraphobject": [
+          "rda_military_amp_gau-90"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_military_amp_light_smg"
+        ],
+        "mgraphobject": [
+          "rda_military_amp_light_smg"
+        ]
+      },
+      {
+        "ui_names": [
+          "rda_military_lobeweapon_prototype"
+        ],
+        "mgraphobject": [
+          "rda_military_lobeweapon_prototype"
+        ]
+      },
+      {
+        "ui_names": [
+          "testlongbow"
+        ],
+        "mgraphobject": [
+          "testlongbow"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_01_frontgun"
+        ],
+        "mgraphobject": [
+          "vh_dragon_01_frontgun"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_dragon_01_topgun"
+        ],
+        "mgraphobject": [
+          "vh_dragon_01_topgun"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_flame_weapon_01"
+        ],
+        "mgraphobject": [
+          "vh_turret_flame_weapon_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_hmg_weapon_01"
+        ],
+        "mgraphobject": [
+          "vh_turret_hmg_weapon_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_turret_missile_launcher_weapon_01"
+        ],
+        "mgraphobject": [
+          "vh_turret_missile_launcher_weapon_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "vh_wyvern_weapon_01"
+        ],
+        "mgraphobject": [
+          "vh_wyvern_weapon_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "w_ar_m4_t1"
+        ],
+        "mgraphobject": [
+          "w_ar_m4_t1"
+        ]
+      },
+      {
+        "ui_names": [
+          "w_ar_m4_t1_magazine"
+        ],
+        "mgraphobject": [
+          "w_ar_m4_t1_magazine"
+        ]
+      },
+      {
+        "ui_names": [
+          "w_blue_prototype_sentry"
+        ],
+        "mgraphobject": [
+          "w_blue_prototype_sentry"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_flt_long_bow_grip_03"
+        ],
+        "mgraphobject": [
+          "wpn_flt_long_bow_grip_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_flt_long_bow_limb_05"
+        ],
+        "mgraphobject": [
+          "wpn_flt_long_bow_limb_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_amp_defender_revolver"
+        ],
+        "mgraphobject": [
+          "wpn_npc_amp_defender_revolver"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_amp_gau90_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_amp_gau90_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_amp_machine_pistol_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_amp_machine_pistol_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_amp_machinegun_elite"
+        ],
+        "mgraphobject": [
+          "wpn_npc_amp_machinegun_elite"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_amp_revolver_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_amp_revolver_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_amp_shotgun_underbarrel"
+        ],
+        "mgraphobject": [
+          "wpn_npc_amp_shotgun_underbarrel"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_amp_smg_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_amp_smg_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_amp_smg_01_veteran"
+        ],
+        "mgraphobject": [
+          "wpn_npc_amp_smg_01_veteran"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_assaultrifle_human_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_assaultrifle_human_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_assaultrifle_human_underbarrel"
+        ],
+        "mgraphobject": [
+          "wpn_npc_assaultrifle_human_underbarrel"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_commando_elite_gau90_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_commando_elite_gau90_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_handgun_human_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_handgun_human_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_heavybow_mina_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_heavybow_mina_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_longbow_etuwa_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_longbow_etuwa_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_longbow_kitanga_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_longbow_kitanga_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_missilelauncher_human_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_missilelauncher_human_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_rnf_longbow_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_rnf_longbow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_sniperrifle_human_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_sniperrifle_human_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_tmp_shortbow_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_tmp_shortbow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_vlt_heavybow_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_vlt_heavybow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bansheebow_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bansheebow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_delayedexplosive_01_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_delayedexplosive_01_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_delayedexplosive_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_delayedexplosive_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_delayedexplosive_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_delayedexplosive_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_fire_01_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_fire_01_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_fire_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_fire_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_fire_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_fire_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_hunting_01_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_hunting_01_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_hunting_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_hunting_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_hunting_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_hunting_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_hunting_03_brandonly"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_hunting_03_brandonly"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_piercing_01_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_piercing_01_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_poison_01_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_poison_01_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_poisoncloud_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_poisoncloud_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_poisoncloud_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_poisoncloud_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_shocking_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_shocking_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_shocking_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_shocking_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_shocking_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_shocking_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_shredder_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_shredder_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_shredder_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_shredder_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_shredder_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_shredder_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_rocket_launcher_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_rocket_launcher_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_throw"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_throw"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_03_cin"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_03_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_barrel_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_barrel_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_barrel_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_barrel_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_barrel_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_barrel_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_frame_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_frame_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_guts_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_guts_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_guts_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_guts_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_guts_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_guts_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_new_temp_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_new_temp_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_root_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_root_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_root_02_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_root_02_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_root_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_root_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_assault_rifle_root_preavatar"
+        ],
+        "mgraphobject": [
+          "wpn_p_assault_rifle_root_preavatar"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_bansheebow_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_bansheebow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_bansheebow_guts_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_bansheebow_guts_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_bansheebow_guts_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_bansheebow_guts_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_bansheebow_root_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_bansheebow_root_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_bansheebow_root_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_bansheebow_root_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_bansheebow_root_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_bansheebow_root_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_bansheebow_string_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_bansheebow_string_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_bansheebowmod_placeholder"
+        ],
+        "mgraphobject": [
+          "wpn_p_bansheebowmod_placeholder"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_dartgun_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_dartgun_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_goldengun_debug_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_goldengun_debug_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_handgun_barrel_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_handgun_barrel_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_handgun_barrel_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_handgun_barrel_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_handgun_guts_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_handgun_guts_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_handgun_guts_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_handgun_guts_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_handgun_prototype"
+        ],
+        "mgraphobject": [
+          "wpn_p_handgun_prototype"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_handgun_root_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_handgun_root_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_handgun_root_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_handgun_root_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_handgun_root_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_handgun_root_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_grip_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_grip_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_grip_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_grip_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_grip_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_grip_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_grip_04"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_grip_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_grip_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_grip_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_limb_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_limb_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_limb_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_limb_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_limb_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_limb_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_limb_04"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_limb_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_limb_05"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_limb_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_limb_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_limb_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_limb_guide"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_limb_guide"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_root_08"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_root_08"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_root_09"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_root_09"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_root_10"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_root_10"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_root_11"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_root_11"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_string_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_string_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_string_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_string_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_string_01_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_string_01_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_string_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_string_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_string_02_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_string_02_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_string_02_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_string_02_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_string_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_string_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_string_03_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_string_03_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_string_04"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_string_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_heavy_bow_string_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_heavy_bow_string_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_high_precision_rifle_barrel_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_high_precision_rifle_barrel_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_high_precision_rifle_barrel_01_skeleton"
+        ],
+        "mgraphobject": [
+          "wpn_p_high_precision_rifle_barrel_01_skeleton"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_high_precision_rifle_barrel_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_high_precision_rifle_barrel_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_high_precision_rifle_barrel_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_high_precision_rifle_barrel_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_high_precision_rifle_guts_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_high_precision_rifle_guts_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_high_precision_rifle_guts_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_high_precision_rifle_guts_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_high_precision_rifle_guts_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_high_precision_rifle_guts_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_high_precision_rifle_root_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_high_precision_rifle_root_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_high_precision_rifle_root_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_high_precision_rifle_root_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_javelin_mhi"
+        ],
+        "mgraphobject": [
+          "wpn_p_javelin_mhi"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_grip_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_grip_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_grip_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_grip_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_grip_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_grip_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_grip_04"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_grip_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_grip_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_grip_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_grip_08"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_grip_08"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_grip_solek_hurt_cin"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_grip_solek_hurt_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_04"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_05"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_09"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_09"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_10"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_10"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_11"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_11"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_12"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_12"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_limb_guide"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_limb_guide"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_root_08"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_root_08"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_root_solek_hurt_cin"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_root_solek_hurt_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_03_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_03_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_03_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_03_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_04"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_04_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_04_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_06_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_06_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_08"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_08"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_string_solek_hurt_cin"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_string_solek_hurt_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_long_bow_vanity_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_long_bow_vanity_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_machinegun_gs221_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_machinegun_gs221_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_max_assault_rifle_prologue"
+        ],
+        "mgraphobject": [
+          "wpn_p_max_assault_rifle_prologue"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_max_heavybow_prologue"
+        ],
+        "mgraphobject": [
+          "wpn_p_max_heavybow_prologue"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_max_longbow_prologue"
+        ],
+        "mgraphobject": [
+          "wpn_p_max_longbow_prologue"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_max_shortbow_prologue"
+        ],
+        "mgraphobject": [
+          "wpn_p_max_shortbow_prologue"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_max_shotgun_prologue"
+        ],
+        "mgraphobject": [
+          "wpn_p_max_shotgun_prologue"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_ammo_throw_fragmentation_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_ammo_throw_fragmentation_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_ammo_throw_incendiary_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_ammo_throw_incendiary_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_ammo_throw_nitrogen_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_ammo_throw_nitrogen_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_ammo_throw_shock_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_ammo_throw_shock_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_ammo_throw_sonic_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_ammo_throw_sonic_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_01_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_01_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_01_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_02_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_02_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_02_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_02_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_02_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_02_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_03_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_03_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_03_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_03_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_03_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_03_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_04_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_04_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_assault_rifle_04_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_assault_rifle_04_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_heavy_bow_01_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_heavy_bow_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_heavy_bow_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_heavy_bow_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_heavy_bow_01_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_heavy_bow_01_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_heavy_bow_02_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_heavy_bow_02_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_heavy_bow_02_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_heavy_bow_02_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_heavy_bow_02_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_heavy_bow_02_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_heavy_bow_03_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_heavy_bow_03_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_heavy_bow_03_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_heavy_bow_03_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_heavymachinegun_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_heavymachinegun_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_knife_01_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_knife_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_knife_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_knife_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_knife_01_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_knife_01_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_knife_01_d"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_knife_01_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_knife_troong_01_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_knife_troong_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_knife_troong_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_knife_troong_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_long_bow_01_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_long_bow_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_long_bow_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_long_bow_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_long_bow_01_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_long_bow_01_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_long_bow_02_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_long_bow_02_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_long_bow_02_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_long_bow_02_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_long_bow_03_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_long_bow_03_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_long_bow_03_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_long_bow_03_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_long_bow_03_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_long_bow_03_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_short_bow_01_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_short_bow_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_short_bow_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_short_bow_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_short_bow_01_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_short_bow_01_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_short_bow_02_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_short_bow_02_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_short_bow_02_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_short_bow_02_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_short_bow_02_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_short_bow_02_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_short_bow_03_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_short_bow_03_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_short_bow_03_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_short_bow_03_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_short_bow_03_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_short_bow_03_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_shotgun_01_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_shotgun_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_shotgun_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_shotgun_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_shotgun_01_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_shotgun_01_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_shotgun_02_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_shotgun_02_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_shotgun_02_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_shotgun_02_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_shotgun_02_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_shotgun_02_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_shotgun_03_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_shotgun_03_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_shotgun_03_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_shotgun_03_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_shotgun_03_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_shotgun_03_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_spear_thrower_01_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_spear_thrower_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_spear_thrower_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_spear_thrower_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_spear_thrower_01_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_spear_thrower_01_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_spear_thrower_02_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_spear_thrower_02_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_spear_thrower_02_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_spear_thrower_02_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_multi_tool"
+        ],
+        "mgraphobject": [
+          "wpn_p_multi_tool"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_powercell"
+        ],
+        "mgraphobject": [
+          "wpn_p_powercell"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_proximity_mine_prototype_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_p_proximity_mine_prototype_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_remnant_root"
+        ],
+        "mgraphobject": [
+          "wpn_p_remnant_root"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_rocket_launcher_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_rocket_launcher_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_grip_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_grip_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_grip_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_grip_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_grip_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_grip_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_grip_04"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_grip_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_grip_04_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_grip_04_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_grip_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_grip_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_grip_12"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_grip_12"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_grip_guide"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_grip_guide"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_limb_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_limb_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_limb_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_limb_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_limb_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_limb_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_limb_04"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_limb_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_limb_05"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_limb_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_limb_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_limb_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_limb_guide"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_limb_guide"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_root_08"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_root_08"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_root_09"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_root_09"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_root_10"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_root_10"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_root_11"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_root_11"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_root_12"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_root_12"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_02_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_02_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_04"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_04_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_04_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_04_c"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_04_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_12"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_12"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_short_bow_string_guide"
+        ],
+        "mgraphobject": [
+          "wpn_p_short_bow_string_guide"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_shotgun_barrel_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_shotgun_barrel_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_shotgun_barrel_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_shotgun_barrel_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_shotgun_barrel_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_shotgun_barrel_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_shotgun_guts_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_shotgun_guts_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_shotgun_guts_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_shotgun_guts_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_shotgun_guts_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_shotgun_guts_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_shotgun_root_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_shotgun_root_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_shotgun_root_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_shotgun_root_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_shotgun_root_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_shotgun_root_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_ammo_hunting_01_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_ammo_hunting_01_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_ammo_poison_01_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_ammo_poison_01_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_grip_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_grip_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_grip_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_grip_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_grip_05"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_grip_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_grip_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_grip_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_grip_guide"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_grip_guide"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_limb_guide"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_limb_guide"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_root_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_root_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_root_02"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_root_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_root_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_root_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_root_04"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_root_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_root_05"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_root_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_root_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_root_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_weight_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_weight_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_weight_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_weight_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_weight_05"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_weight_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_spear_thrower_weight_06"
+        ],
+        "mgraphobject": [
+          "wpn_p_spear_thrower_weight_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_throw"
+        ],
+        "mgraphobject": [
+          "wpn_p_throw"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_tool_ss_detox_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_tool_ss_detox_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_tool_ss_noise_ball_01_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_p_tool_ss_noise_ball_01_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_tool_ss_proximity_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_tool_ss_proximity_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_tool_ss_repellent_01_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_p_tool_ss_repellent_01_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_tool_staffsling_01"
+        ],
+        "mgraphobject": [
+          "wpn_p_tool_staffsling_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rda_carbrifle_01"
+        ],
+        "mgraphobject": [
+          "wpn_rda_carbrifle_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rda_carbrifle_01_sensememory_shader"
+        ],
+        "mgraphobject": [
+          "wpn_rda_carbrifle_01_sensememory_shader"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rda_carbrifle_underbarrelgrenade"
+        ],
+        "mgraphobject": [
+          "wpn_rda_carbrifle_underbarrelgrenade"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rda_pistol_01"
+        ],
+        "mgraphobject": [
+          "wpn_rda_pistol_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rda_sniper_rifle_01"
+        ],
+        "mgraphobject": [
+          "wpn_rda_sniper_rifle_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rnf_b_attach_01"
+        ],
+        "mgraphobject": [
+          "wpn_rnf_b_attach_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rnf_b_attach_02"
+        ],
+        "mgraphobject": [
+          "wpn_rnf_b_attach_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rnf_b_attach_03"
+        ],
+        "mgraphobject": [
+          "wpn_rnf_b_attach_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rnf_b_attach_04"
+        ],
+        "mgraphobject": [
+          "wpn_rnf_b_attach_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rnf_b_lo_limb_05"
+        ],
+        "mgraphobject": [
+          "wpn_rnf_b_lo_limb_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_rnf_seed_noise_01_weapon"
+        ],
+        "mgraphobject": [
+          "wpn_rnf_seed_noise_01_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_trinket_devtest_rda_01"
+        ],
+        "mgraphobject": [
+          "wpn_trinket_devtest_rda_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "yellow resin canned animation visual prop"
+        ],
+        "mgraphobject": [
+          "yellow resin canned animation visual prop"
+        ]
+      }
+    ],
+    "dlc1": [
+      {
+        "ui_names": [
+          "harvestable_dlc1_angelberry_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_angelberry_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_angelberry_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_angelberry_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_anthoney_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_anthoney_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_antnectar_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_antnectar_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_bark002_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_bark002_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_bark002_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_bark002_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_branch001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_branch001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_branch001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_branch001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_cheese_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_cheese_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_cone001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_cone001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_cone001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_cone001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_corvoseed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_corvoseed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_corvoseed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_corvoseed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_egg001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_egg001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_egg001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_egg001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_fiber001_mimetic_ball"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_fiber001_mimetic_ball"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_fiber001_showcase_ball"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_fiber001_showcase_ball"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_fieryfruit_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_fieryfruit_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_firaseed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_firaseed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_firaseed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_firaseed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_fruit001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_fruit001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_fruit001_showcase_exquisite"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_fruit001_showcase_exquisite"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_fruit001_showcase_superior"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_fruit001_showcase_superior"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_herb001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_herb001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_moss002_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_moss002_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_moss002_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_moss002_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_mushroom002_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_mushroom002_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_mushroom002_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_mushroom002_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_reed002_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_reed002_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_reed002_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_reed002_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_resin002_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_resin002_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_resin002_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_resin002_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_root001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_root001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_root001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_root001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_seaweed001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_seaweed001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_seaweed001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_seaweed001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_shell002_cheese"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_shell002_cheese"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_shell002_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_shell002_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_shell002_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_shell002_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_spitseed001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_spitseed001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc1_spitseed001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc1_spitseed001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_amp_rifle_commando_boss_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_amp_rifle_commando_boss_01"
+        ]
+      }
+    ],
+    "dlc2": [
+      {
+        "ui_names": [
+          "dlc2_gp_ingredient_wirehub_sabotage_wire_weapon"
+        ],
+        "mgraphobject": [
+          "dlc2_gp_ingredient_wirehub_sabotage_wire_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_alistair_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_alistair_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_alistair_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_alistair_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_anthoney_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_anthoney_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_antnectar_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_antnectar_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_bark_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_bark_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_bark_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_bark_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_branch_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_branch_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_branch_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_branch_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_cone_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_cone_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_cone_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_cone_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_egg_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_egg_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_egg_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_egg_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_egg_002_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_egg_002_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_egg_002_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_egg_002_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_fiber_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_fiber_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_fieryfruit_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_fieryfruit_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_fruit_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_fruit_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_grain_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_grain_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_moss_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_moss_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_moss_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_moss_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_mushroom_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_mushroom_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_mushroom_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_mushroom_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_reed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_reed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_reed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_reed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_resin_mimetic_weapon"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_resin_mimetic_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_resin_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_resin_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_root_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_root_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_root_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_root_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_seaweed_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_seaweed_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_seaweed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_seaweed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_seed_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_seed_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_seed_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_seed_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_seed_002_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_seed_002_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_shell001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_shell001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_shell_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_shell_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_softstone_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_softstone_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_softstone_001_mimetic_horizontal"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_softstone_001_mimetic_horizontal"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_softstone_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_softstone_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_vine_001_mimetic"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_vine_001_mimetic"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc2_vine_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc2_vine_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "item_dlc2_fish_showcase"
+        ],
+        "mgraphobject": [
+          "item_dlc2_fish_showcase"
+        ]
+      }
+    ],
+    "dlc3": [
+      {
+        "ui_names": [
+          "dlc3_ld_ingredient_morpheuslily_harvestable_weapon"
+        ],
+        "mgraphobject": [
+          "dlc3_ld_ingredient_morpheuslily_harvestable_weapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc3_fruit_001_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc3_fruit_001_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc3_opal_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc3_opal_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "harvestable_dlc3_reed_showcase"
+        ],
+        "mgraphobject": [
+          "harvestable_dlc3_reed_showcase"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_amp_sniper_smg"
+        ],
+        "mgraphobject": [
+          "wpn_npc_amp_sniper_smg"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_bosssniper_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_bosssniper_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_bosssniper_01_cin"
+        ],
+        "mgraphobject": [
+          "wpn_npc_bosssniper_01_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_breacher_shotgun_boss_graph"
+        ],
+        "mgraphobject": [
+          "wpn_npc_breacher_shotgun_boss_graph"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_breacher_shotgun_graph"
+        ],
+        "mgraphobject": [
+          "wpn_npc_breacher_shotgun_graph"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_companion_max_assault_rifle_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_companion_max_assault_rifle_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_ammo_shortbow_explosive_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_ammo_shortbow_explosive_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_ammo_shortbow_fire_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_ammo_shortbow_fire_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_ammo_shortbow_fire_beast_master"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_ammo_shortbow_fire_beast_master"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_ammo_shortbow_hunting_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_ammo_shortbow_hunting_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_ammo_shortbow_poison_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_ammo_shortbow_poison_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_amp_smg_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_amp_smg_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_assault_rifle_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_assault_rifle_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_assault_rifle_03"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_assault_rifle_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_longbow_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_longbow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_longbow_01_cin"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_longbow_01_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_longbow_02"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_longbow_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_longbow_02_cin"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_longbow_02_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_longbow_etuwa_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_longbow_etuwa_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_longbow_etuwa_01_cin"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_longbow_etuwa_01_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_longbow_kitanga_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_longbow_kitanga_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_longbow_rinela_01_cin"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_longbow_rinela_01_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_skelsuit_ar_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_skelsuit_ar_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_spear_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_spear_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_tribow_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_tribow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_tribow_02"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_tribow_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_tribow_02_cin"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_tribow_02_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_wukula_ar_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_wukula_ar_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_wukula_bow_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_wukula_bow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_max_zari_handgun_01_cin"
+        ],
+        "mgraphobject": [
+          "wpn_npc_max_zari_handgun_01_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_rocket_launcher_ash_beast_master"
+        ],
+        "mgraphobject": [
+          "wpn_npc_rocket_launcher_ash_beast_master"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_tamteybow_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_tamteybow_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_tamteybow_01_cin"
+        ],
+        "mgraphobject": [
+          "wpn_npc_tamteybow_01_cin"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_npc_wukula_grenadelauncher_01"
+        ],
+        "mgraphobject": [
+          "wpn_npc_wukula_grenadelauncher_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_ammo_bow_stagger_03"
+        ],
+        "mgraphobject": [
+          "wpn_p_ammo_bow_stagger_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_finisher_grenade"
+        ],
+        "mgraphobject": [
+          "wpn_p_finisher_grenade"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_max_assault_rifle_01_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_max_assault_rifle_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_max_assault_rifle_01_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_max_assault_rifle_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_max_assault_rifle_02_b"
+        ],
+        "mgraphobject": [
+          "wpn_p_max_assault_rifle_02_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_max_knife_01_a"
+        ],
+        "mgraphobject": [
+          "wpn_p_max_knife_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "wpn_p_maximus_heavymachinegun_pickup_prototype"
+        ],
+        "mgraphobject": [
+          "wpn_p_maximus_heavymachinegun_pickup_prototype"
+        ]
+      }
+    ],
+    "rogue": [
+      {
+        "ui_names": [
+          "w_blue_sentry_antiair"
+        ],
+        "mgraphobject": [
+          "w_blue_sentry_antiair"
+        ]
+      },
+      {
+        "ui_names": [
+          "w_blue_sentry_flak"
+        ],
+        "mgraphobject": [
+          "w_blue_sentry_flak"
+        ]
+      },
+      {
+        "ui_names": [
+          "w_npc_flamerweapon"
+        ],
+        "mgraphobject": [
+          "w_npc_flamerweapon"
+        ]
+      },
+      {
+        "ui_names": [
+          "w_npc_rpg"
+        ],
+        "mgraphobject": [
+          "w_npc_rpg"
+        ]
+      },
+      {
+        "ui_names": [
+          "w_planimal_banshee_of_paradise_head"
+        ],
+        "mgraphobject": [
+          "w_planimal_banshee_of_paradise_head"
+        ]
+      },
+      {
+        "ui_names": [
+          "w_sentry_gauss"
+        ],
+        "mgraphobject": [
+          "w_sentry_gauss"
+        ]
+      },
+      {
+        "ui_names": [
+          "w_stg_doublebarrel_t1"
+        ],
+        "mgraphobject": [
+          "w_stg_doublebarrel_t1"
+        ]
+      },
+      {
+        "ui_names": [
+          "w_stg_doublebarrel_t1_magazine"
+        ],
+        "mgraphobject": [
+          "w_stg_doublebarrel_t1_magazine"
+        ]
+      },
+      {
+        "ui_names": [
+          "worldactivity_howler_mimetic"
+        ],
+        "mgraphobject": [
+          "worldactivity_howler_mimetic"
+        ]
+      }
+    ]
+  }
+}

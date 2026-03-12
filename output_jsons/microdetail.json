@@ -1,0 +1,2658 @@
+{
+  "microdetail": {
+    "base_game": [
+      {
+        "ui_names": [
+          "md_bajatickler_barnacle_c"
+        ],
+        "mgraphobject": [
+          "md_bajatickler_barnacle_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_billberry_cluster_a"
+        ],
+        "mgraphobject": [
+          "md_billberry_cluster_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_billberry_cluster_b"
+        ],
+        "mgraphobject": [
+          "md_billberry_cluster_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_bjatickler_barnacle_b"
+        ],
+        "mgraphobject": [
+          "md_bjatickler_barnacle_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_bladderlantern_a"
+        ],
+        "mgraphobject": [
+          "md_bladderlantern_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_bog_mossclump_a"
+        ],
+        "mgraphobject": [
+          "md_bog_mossclump_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_bog_mossclump_b"
+        ],
+        "mgraphobject": [
+          "md_bog_mossclump_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_branch_temperate_01"
+        ],
+        "mgraphobject": [
+          "md_branch_temperate_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_branch_temperate_02"
+        ],
+        "mgraphobject": [
+          "md_branch_temperate_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_branch_temperate_03"
+        ],
+        "mgraphobject": [
+          "md_branch_temperate_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_branch_temperate_04"
+        ],
+        "mgraphobject": [
+          "md_branch_temperate_04"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_branch_temperate_05"
+        ],
+        "mgraphobject": [
+          "md_branch_temperate_05"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_branch_temperate_06"
+        ],
+        "mgraphobject": [
+          "md_branch_temperate_06"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_californiaoak_hanging_canopy_a"
+        ],
+        "mgraphobject": [
+          "md_californiaoak_hanging_canopy_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_californiaoak_hanging_canopy_b"
+        ],
+        "mgraphobject": [
+          "md_californiaoak_hanging_canopy_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_cone_c_clusterpine"
+        ],
+        "mgraphobject": [
+          "md_cone_c_clusterpine"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_cone_c_mangrove"
+        ],
+        "mgraphobject": [
+          "md_cone_c_mangrove"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_cone_c_woodland"
+        ],
+        "mgraphobject": [
+          "md_cone_c_woodland"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_cyrano_a"
+        ],
+        "mgraphobject": [
+          "md_cyrano_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dapophet_pod_a"
+        ],
+        "mgraphobject": [
+          "md_dapophet_pod_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_deco_twigs_a"
+        ],
+        "mgraphobject": [
+          "md_deco_twigs_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_deco_twigs_b"
+        ],
+        "mgraphobject": [
+          "md_deco_twigs_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragonblood_bush_lrg_a_unique"
+        ],
+        "mgraphobject": [
+          "md_dragonblood_bush_lrg_a_unique"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragonblood_bush_sml_a_unique"
+        ],
+        "mgraphobject": [
+          "md_dragonblood_bush_sml_a_unique"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragonblood_flower_a"
+        ],
+        "mgraphobject": [
+          "md_dragonblood_flower_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragonblood_flower_a_unique"
+        ],
+        "mgraphobject": [
+          "md_dragonblood_flower_a_unique"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragonblood_grass_f"
+        ],
+        "mgraphobject": [
+          "md_dragonblood_grass_f"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragonblood_grass_f_unique"
+        ],
+        "mgraphobject": [
+          "md_dragonblood_grass_f_unique"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragonblood_peeledbark_a"
+        ],
+        "mgraphobject": [
+          "md_dragonblood_peeledbark_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragonblood_peeledbark_b"
+        ],
+        "mgraphobject": [
+          "md_dragonblood_peeledbark_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragonblood_peeledbark_c"
+        ],
+        "mgraphobject": [
+          "md_dragonblood_peeledbark_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragonblood_peeledbark_d"
+        ],
+        "mgraphobject": [
+          "md_dragonblood_peeledbark_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragoonblood_bush_lrg_a"
+        ],
+        "mgraphobject": [
+          "md_dragoonblood_bush_lrg_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_dragoonblood_bush_sml_a"
+        ],
+        "mgraphobject": [
+          "md_dragoonblood_bush_sml_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_a green nobio"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_a green nobio"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_a green"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_a green"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_a_old"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_a_old"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_a_young"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_a_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_aztec"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_aztec"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_aztec_b"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_aztec_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_birdsnest_a"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_birdsnest_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_birdsnest_b"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_birdsnest_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_birdsnest_c"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_birdsnest_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_birdsnest_d"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_birdsnest_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_deadleaf_b"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_deadleaf_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_giant_a"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_giant_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_pitcairnia"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_pitcairnia"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_epiphyte_zebra"
+        ],
+        "mgraphobject": [
+          "md_epiphyte_zebra"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_fern_a"
+        ],
+        "mgraphobject": [
+          "md_fern_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_fern_b"
+        ],
+        "mgraphobject": [
+          "md_fern_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_fern_b_nobio"
+        ],
+        "mgraphobject": [
+          "md_fern_b_nobio"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_fern_large_a"
+        ],
+        "mgraphobject": [
+          "md_fern_large_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_fern_large_b"
+        ],
+        "mgraphobject": [
+          "md_fern_large_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_fern_large_c"
+        ],
+        "mgraphobject": [
+          "md_fern_large_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_firtree_barkpiece_a"
+        ],
+        "mgraphobject": [
+          "md_firtree_barkpiece_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_firtree_barkpiece_b"
+        ],
+        "mgraphobject": [
+          "md_firtree_barkpiece_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_firtree_barkpiece_c"
+        ],
+        "mgraphobject": [
+          "md_firtree_barkpiece_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_firtree_barkpiece_d"
+        ],
+        "mgraphobject": [
+          "md_firtree_barkpiece_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_fungusbarkburls"
+        ],
+        "mgraphobject": [
+          "md_fungusbarkburls"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_fungusbarkburls_b"
+        ],
+        "mgraphobject": [
+          "md_fungusbarkburls_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_fungusbarkburls_c"
+        ],
+        "mgraphobject": [
+          "md_fungusbarkburls_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_generic_rock_cluster_03"
+        ],
+        "mgraphobject": [
+          "md_generic_rock_cluster_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_grass_01_a"
+        ],
+        "mgraphobject": [
+          "md_grass_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_grass_a_small"
+        ],
+        "mgraphobject": [
+          "md_grass_a_small"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_grass_on_top_f"
+        ],
+        "mgraphobject": [
+          "md_grass_on_top_f"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_green_moss_clusters_a"
+        ],
+        "mgraphobject": [
+          "md_green_moss_clusters_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hanging_moss"
+        ],
+        "mgraphobject": [
+          "md_hanging_moss"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hanging_moss_b"
+        ],
+        "mgraphobject": [
+          "md_hanging_moss_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hanging_moss_c"
+        ],
+        "mgraphobject": [
+          "md_hanging_moss_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hanginggrass_a"
+        ],
+        "mgraphobject": [
+          "md_hanginggrass_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hanginggrass_b"
+        ],
+        "mgraphobject": [
+          "md_hanginggrass_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hanginggrass_c"
+        ],
+        "mgraphobject": [
+          "md_hanginggrass_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hanginggrass_d"
+        ],
+        "mgraphobject": [
+          "md_hanginggrass_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hanginggrass_e"
+        ],
+        "mgraphobject": [
+          "md_hanginggrass_e"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hanginggrass_f"
+        ],
+        "mgraphobject": [
+          "md_hanginggrass_f"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hanginggrass_g"
+        ],
+        "mgraphobject": [
+          "md_hanginggrass_g"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hangingvine_a"
+        ],
+        "mgraphobject": [
+          "md_hangingvine_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hangingvine_bigroot_a"
+        ],
+        "mgraphobject": [
+          "md_hangingvine_bigroot_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hangingvine_bigroot_b"
+        ],
+        "mgraphobject": [
+          "md_hangingvine_bigroot_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hangingvine_bigroot_c"
+        ],
+        "mgraphobject": [
+          "md_hangingvine_bigroot_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_harvestable_noxiousseed_b"
+        ],
+        "mgraphobject": [
+          "md_harvestable_noxiousseed_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_harvestable_noxiousseed_c"
+        ],
+        "mgraphobject": [
+          "md_harvestable_noxiousseed_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hq_branch_a"
+        ],
+        "mgraphobject": [
+          "md_hq_branch_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hq_branch_b"
+        ],
+        "mgraphobject": [
+          "md_hq_branch_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hq_branch_c"
+        ],
+        "mgraphobject": [
+          "md_hq_branch_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_hq_branch_d"
+        ],
+        "mgraphobject": [
+          "md_hq_branch_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_cluster_d"
+        ],
+        "mgraphobject": [
+          "md_ivy_cluster_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_cluster_e"
+        ],
+        "mgraphobject": [
+          "md_ivy_cluster_e"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_patch_a"
+        ],
+        "mgraphobject": [
+          "md_ivy_patch_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_patch_b"
+        ],
+        "mgraphobject": [
+          "md_ivy_patch_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_patch_c"
+        ],
+        "mgraphobject": [
+          "md_ivy_patch_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_patch_d"
+        ],
+        "mgraphobject": [
+          "md_ivy_patch_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_patch_h_cheap"
+        ],
+        "mgraphobject": [
+          "md_ivy_patch_h_cheap"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_patch_i_cheap"
+        ],
+        "mgraphobject": [
+          "md_ivy_patch_i_cheap"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_patch_large_a"
+        ],
+        "mgraphobject": [
+          "md_ivy_patch_large_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_tree_cover_01"
+        ],
+        "mgraphobject": [
+          "md_ivy_tree_cover_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ivy_tree_cover_02"
+        ],
+        "mgraphobject": [
+          "md_ivy_tree_cover_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_large_ivy_b"
+        ],
+        "mgraphobject": [
+          "md_large_ivy_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_large_ivy_c"
+        ],
+        "mgraphobject": [
+          "md_large_ivy_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_large_ivy_d"
+        ],
+        "mgraphobject": [
+          "md_large_ivy_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_large_ivy_e"
+        ],
+        "mgraphobject": [
+          "md_large_ivy_e"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_leaves_b"
+        ],
+        "mgraphobject": [
+          "md_leaves_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_lichen_clump_temperate_03"
+        ],
+        "mgraphobject": [
+          "md_lichen_clump_temperate_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_lichen_temperate_01"
+        ],
+        "mgraphobject": [
+          "md_lichen_temperate_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_lizardbarkburls_a"
+        ],
+        "mgraphobject": [
+          "md_lizardbarkburls_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_lizardbarkburls_b"
+        ],
+        "mgraphobject": [
+          "md_lizardbarkburls_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_lizardbarkburls_c"
+        ],
+        "mgraphobject": [
+          "md_lizardbarkburls_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0003_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0003_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0004_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0004_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0006_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0006_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0008_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0008_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0008_b"
+        ],
+        "mgraphobject": [
+          "md_msv_0008_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0008_c"
+        ],
+        "mgraphobject": [
+          "md_msv_0008_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0008_d"
+        ],
+        "mgraphobject": [
+          "md_msv_0008_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0009_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0009_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0009_b"
+        ],
+        "mgraphobject": [
+          "md_msv_0009_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0009_c"
+        ],
+        "mgraphobject": [
+          "md_msv_0009_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0010_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0010_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0012_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0012_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0012_c"
+        ],
+        "mgraphobject": [
+          "md_msv_0012_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0013_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0013_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0014_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0014_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_mushroom_temperate_detail_01"
+        ],
+        "mgraphobject": [
+          "md_mushroom_temperate_detail_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_mushroom_temperate_detail_02"
+        ],
+        "mgraphobject": [
+          "md_mushroom_temperate_detail_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_mushroomcups_cluster_a"
+        ],
+        "mgraphobject": [
+          "md_mushroomcups_cluster_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_mushroomcups_cluster_b"
+        ],
+        "mgraphobject": [
+          "md_mushroomcups_cluster_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_mushroomcups_largecluster_b"
+        ],
+        "mgraphobject": [
+          "md_mushroomcups_largecluster_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_pitcher"
+        ],
+        "mgraphobject": [
+          "md_pitcher"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_planimal_sporeblaster_small"
+        ],
+        "mgraphobject": [
+          "md_planimal_sporeblaster_small"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rain_antidote_leaves"
+        ],
+        "mgraphobject": [
+          "md_rain_antidote_leaves"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rain_epiphyte_a_mature_green_large"
+        ],
+        "mgraphobject": [
+          "md_rain_epiphyte_a_mature_green_large"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rain_ferngroundcover_a"
+        ],
+        "mgraphobject": [
+          "md_rain_ferngroundcover_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rain_hanginggrass_h"
+        ],
+        "mgraphobject": [
+          "md_rain_hanginggrass_h"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rain_ivy_patch_a_cheap"
+        ],
+        "mgraphobject": [
+          "md_rain_ivy_patch_a_cheap"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rain_mushroom_a"
+        ],
+        "mgraphobject": [
+          "md_rain_mushroom_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rain_temp_mosspatch_a"
+        ],
+        "mgraphobject": [
+          "md_rain_temp_mosspatch_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rain_tree_epiphyte_01_c"
+        ],
+        "mgraphobject": [
+          "md_rain_tree_epiphyte_01_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_razorfern"
+        ],
+        "mgraphobject": [
+          "md_razorfern"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_red_moss_clusters_01"
+        ],
+        "mgraphobject": [
+          "md_red_moss_clusters_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_red_moss_clusters_02"
+        ],
+        "mgraphobject": [
+          "md_red_moss_clusters_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_redclaw_a"
+        ],
+        "mgraphobject": [
+          "md_redclaw_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_redclaw_b"
+        ],
+        "mgraphobject": [
+          "md_redclaw_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rock_dead_leaves_a"
+        ],
+        "mgraphobject": [
+          "md_rock_dead_leaves_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rock_deco_a"
+        ],
+        "mgraphobject": [
+          "md_rock_deco_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rock_deco_a_nobio"
+        ],
+        "mgraphobject": [
+          "md_rock_deco_a_nobio"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rock_deco_b"
+        ],
+        "mgraphobject": [
+          "md_rock_deco_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rock_deco_c"
+        ],
+        "mgraphobject": [
+          "md_rock_deco_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rock_deco_d"
+        ],
+        "mgraphobject": [
+          "md_rock_deco_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rock_deco_e"
+        ],
+        "mgraphobject": [
+          "md_rock_deco_e"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rootend"
+        ],
+        "mgraphobject": [
+          "md_rootend"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rootend2"
+        ],
+        "mgraphobject": [
+          "md_rootend2"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rootend3"
+        ],
+        "mgraphobject": [
+          "md_rootend3"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rootend_blue"
+        ],
+        "mgraphobject": [
+          "md_rootend_blue"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rootend_blue2"
+        ],
+        "mgraphobject": [
+          "md_rootend_blue2"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_rootend_blue3"
+        ],
+        "mgraphobject": [
+          "md_rootend_blue3"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_saplingbush_01"
+        ],
+        "mgraphobject": [
+          "md_saplingbush_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_bush"
+        ],
+        "mgraphobject": [
+          "md_temp_bush"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_cone_b_clusterpine"
+        ],
+        "mgraphobject": [
+          "md_temp_cone_b_clusterpine"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_cone_b_mangrove"
+        ],
+        "mgraphobject": [
+          "md_temp_cone_b_mangrove"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_cone_b_springcone"
+        ],
+        "mgraphobject": [
+          "md_temp_cone_b_springcone"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_cone_b_woodland"
+        ],
+        "mgraphobject": [
+          "md_temp_cone_b_woodland"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_cone_c_springcone"
+        ],
+        "mgraphobject": [
+          "md_temp_cone_c_springcone"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_green_moss_patch_b"
+        ],
+        "mgraphobject": [
+          "md_temp_green_moss_patch_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_red_moss_patch_a"
+        ],
+        "mgraphobject": [
+          "md_temp_red_moss_patch_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_spanish_moss_a"
+        ],
+        "mgraphobject": [
+          "md_temp_spanish_moss_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_spanish_moss_b"
+        ],
+        "mgraphobject": [
+          "md_temp_spanish_moss_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temp_spanish_moss_c"
+        ],
+        "mgraphobject": [
+          "md_temp_spanish_moss_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temperate_deco_b"
+        ],
+        "mgraphobject": [
+          "md_temperate_deco_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temperate_deco_c"
+        ],
+        "mgraphobject": [
+          "md_temperate_deco_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temperate_mushroom_a"
+        ],
+        "mgraphobject": [
+          "md_temperate_mushroom_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_temperate_mushroom_b"
+        ],
+        "mgraphobject": [
+          "md_temperate_mushroom_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_tileaf"
+        ],
+        "mgraphobject": [
+          "md_tileaf"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_tileaf_01"
+        ],
+        "mgraphobject": [
+          "md_tileaf_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_tileaf_02"
+        ],
+        "mgraphobject": [
+          "md_tileaf_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_traversable mushroom c"
+        ],
+        "mgraphobject": [
+          "md_traversable mushroom c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_traversable mushroom d"
+        ],
+        "mgraphobject": [
+          "md_traversable mushroom d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_tree_epiphyte_01_a"
+        ],
+        "mgraphobject": [
+          "md_tree_epiphyte_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_tree_epiphyte_01_b"
+        ],
+        "mgraphobject": [
+          "md_tree_epiphyte_01_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_treemushrooms_a"
+        ],
+        "mgraphobject": [
+          "md_treemushrooms_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_treemushrooms_c"
+        ],
+        "mgraphobject": [
+          "md_treemushrooms_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_treemushrooms_e"
+        ],
+        "mgraphobject": [
+          "md_treemushrooms_e"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_trunk_deco_a"
+        ],
+        "mgraphobject": [
+          "md_trunk_deco_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_trunk_deco_c"
+        ],
+        "mgraphobject": [
+          "md_trunk_deco_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_turkeytail_mushroom_a"
+        ],
+        "mgraphobject": [
+          "md_turkeytail_mushroom_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_turkeytail_mushroom_b"
+        ],
+        "mgraphobject": [
+          "md_turkeytail_mushroom_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_turkeytail_mushroom_c"
+        ],
+        "mgraphobject": [
+          "md_turkeytail_mushroom_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_turkeytail_mushroom_wilderness_a"
+        ],
+        "mgraphobject": [
+          "md_turkeytail_mushroom_wilderness_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_turkeytail_mushroom_wilderness_b"
+        ],
+        "mgraphobject": [
+          "md_turkeytail_mushroom_wilderness_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_veldt_freyedrope_01_brown"
+        ],
+        "mgraphobject": [
+          "md_veldt_freyedrope_01_brown"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_veldt_goldenfig_unripe_cluster"
+        ],
+        "mgraphobject": [
+          "md_veldt_goldenfig_unripe_cluster"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_vine_a"
+        ],
+        "mgraphobject": [
+          "md_vine_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_vine_b"
+        ],
+        "mgraphobject": [
+          "md_vine_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_vinehighway_overgrowth_01"
+        ],
+        "mgraphobject": [
+          "md_vinehighway_overgrowth_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_vinehighway_overgrowth_02"
+        ],
+        "mgraphobject": [
+          "md_vinehighway_overgrowth_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_vinehighway_overgrowth_03"
+        ],
+        "mgraphobject": [
+          "md_vinehighway_overgrowth_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_violet_clustered_mushroom_a"
+        ],
+        "mgraphobject": [
+          "md_violet_clustered_mushroom_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_white_moss_clusters_01"
+        ],
+        "mgraphobject": [
+          "md_white_moss_clusters_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_white_moss_patch_01"
+        ],
+        "mgraphobject": [
+          "md_white_moss_patch_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_white_moss_patch_02"
+        ],
+        "mgraphobject": [
+          "md_white_moss_patch_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_yucca_a"
+        ],
+        "mgraphobject": [
+          "md_yucca_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_yucca_b"
+        ],
+        "mgraphobject": [
+          "md_yucca_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_yucca_c"
+        ],
+        "mgraphobject": [
+          "md_yucca_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "mushroomcups_largecluster_a"
+        ],
+        "mgraphobject": [
+          "mushroomcups_largecluster_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "red_yellow_clustered_mushroom_microdetail_a"
+        ],
+        "mgraphobject": [
+          "red_yellow_clustered_mushroom_microdetail_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "red_yellow_clustered_mushroom_microdetail_b"
+        ],
+        "mgraphobject": [
+          "red_yellow_clustered_mushroom_microdetail_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "temp_md_dapophet_pod_a"
+        ],
+        "mgraphobject": [
+          "temp_md_dapophet_pod_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "trunk_deco_b"
+        ],
+        "mgraphobject": [
+          "trunk_deco_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "vg_msv_0183_a_md"
+        ],
+        "mgraphobject": [
+          "vg_msv_0183_a_md"
+        ]
+      },
+      {
+        "ui_names": [
+          "vg_msv_0183_b_md"
+        ],
+        "mgraphobject": [
+          "vg_msv_0183_b_md"
+        ]
+      },
+      {
+        "ui_names": [
+          "vg_msv_0183_cc_md"
+        ],
+        "mgraphobject": [
+          "vg_msv_0183_cc_md"
+        ]
+      },
+      {
+        "ui_names": [
+          "vg_msv_0183_dd_md"
+        ],
+        "mgraphobject": [
+          "vg_msv_0183_dd_md"
+        ]
+      },
+      {
+        "ui_names": [
+          "vg_msv_0320_md_lichen_moss_a"
+        ],
+        "mgraphobject": [
+          "vg_msv_0320_md_lichen_moss_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "vine_patch_a"
+        ],
+        "mgraphobject": [
+          "vine_patch_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "vine_patch_b"
+        ],
+        "mgraphobject": [
+          "vine_patch_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "vine_patch_c"
+        ],
+        "mgraphobject": [
+          "vine_patch_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "yellow_clustered_mushroom_microdetail_a"
+        ],
+        "mgraphobject": [
+          "yellow_clustered_mushroom_microdetail_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "yellow_clustered_mushroom_microdetail_b"
+        ],
+        "mgraphobject": [
+          "yellow_clustered_mushroom_microdetail_b"
+        ]
+      }
+    ],
+    "dlc2": [
+      {
+        "ui_names": [
+          "dlc2_md_firtree_barkpiece_a"
+        ],
+        "mgraphobject": [
+          "dlc2_md_firtree_barkpiece_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc2_md_firtree_barkpiece_b"
+        ],
+        "mgraphobject": [
+          "dlc2_md_firtree_barkpiece_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc2_md_firtree_barkpiece_c"
+        ],
+        "mgraphobject": [
+          "dlc2_md_firtree_barkpiece_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc2_md_firtree_barkpiece_d"
+        ],
+        "mgraphobject": [
+          "dlc2_md_firtree_barkpiece_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc2_md_veg_gen_pigsear_mushroom_e"
+        ],
+        "mgraphobject": [
+          "dlc2_md_veg_gen_pigsear_mushroom_e"
+        ]
+      }
+    ],
+    "dlc3": [
+      {
+        "ui_names": [
+          "dlc3_md_billberry_cluster_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_billberry_cluster_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_bladder_polyp_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_bladder_polyp_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_dapophet_pod_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_dapophet_pod_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_grass_on_top_f"
+        ],
+        "mgraphobject": [
+          "dlc3_md_grass_on_top_f"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_hanging_moss_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_hanging_moss_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_hanging_moss_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_hanging_moss_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_hanging_moss_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_hanging_moss_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_hangingvine_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_hangingvine_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_hangingvine_bigroot_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_hangingvine_bigroot_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_hangingvine_bigroot_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_hangingvine_bigroot_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_hangingvine_bigroot_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_hangingvine_bigroot_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_harvestable_noxiousseed_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_harvestable_noxiousseed_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_harvestable_noxiousseed_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_harvestable_noxiousseed_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_ivy_tree_cover_01"
+        ],
+        "mgraphobject": [
+          "dlc3_md_ivy_tree_cover_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_ivy_tree_cover_02"
+        ],
+        "mgraphobject": [
+          "dlc3_md_ivy_tree_cover_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_mushroomcups_largecluster_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_mushroomcups_largecluster_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_mushroomcups_largecluster_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_mushroomcups_largecluster_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_planimal_sporeblaster_small"
+        ],
+        "mgraphobject": [
+          "dlc3_md_planimal_sporeblaster_small"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_californiaoak_hanging_canopy_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_californiaoak_hanging_canopy_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_californiaoak_hanging_canopy_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_californiaoak_hanging_canopy_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_cyrano_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_cyrano_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_a_mature"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_a_mature"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_a_mature_green"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_a_mature_green"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_a_mature_green_large"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_a_mature_green_large"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_a_old"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_a_old"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_a_young"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_a_young"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_aztec"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_aztec"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_aztec_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_aztec_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_birdsnest_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_birdsnest_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_birdsnest_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_birdsnest_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_birdsnest_d"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_birdsnest_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_giant_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_giant_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_epiphyte_giant_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_epiphyte_giant_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_fern_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_fern_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_fern_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_fern_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ferngroundcover_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ferngroundcover_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_grass_01_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_grass_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_hanging_vines_01"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_hanging_vines_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_hanginggrass_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_hanginggrass_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_hanginggrass_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_hanginggrass_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_hanginggrass_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_hanginggrass_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_hanginggrass_d"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_hanginggrass_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_hanginggrass_e"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_hanginggrass_e"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_hanginggrass_g"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_hanginggrass_g"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_hanginggrass_h"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_hanginggrass_h"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_cluster_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_cluster_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_cluster_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_cluster_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_cluster_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_cluster_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_cluster_d"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_cluster_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_cluster_e"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_cluster_e"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_patch_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_patch_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_patch_a_cheap"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_patch_a_cheap"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_patch_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_patch_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_patch_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_patch_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_patch_h"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_patch_h"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ivy_patch_i"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ivy_patch_i"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_large_ivy_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_large_ivy_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_large_ivy_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_large_ivy_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_large_ivy_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_large_ivy_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_large_ivy_d"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_large_ivy_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_large_ivy_e"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_large_ivy_e"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_mushroomcups_alpha_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_mushroomcups_alpha_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_mushroomcups_cluster_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_mushroomcups_cluster_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_mushroomcups_cluster_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_mushroomcups_cluster_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_pitcher"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_pitcher"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_razorfern_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_razorfern_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_redclaw_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_redclaw_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_redclaw_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_redclaw_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_rock_deco_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_rock_deco_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_rock_deco_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_rock_deco_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_rock_deco_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_rock_deco_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_rock_deco_d"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_rock_deco_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_rock_deco_e"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_rock_deco_e"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_rootend"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_rootend"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_rootend2"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_rootend2"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_rootend3"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_rootend3"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_saplingbush_01"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_saplingbush_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_ti_leaf"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_ti_leaf"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_traversable mushroom c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_traversable mushroom c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_traversable mushroom d"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_traversable mushroom d"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_traversable_mushroom_cluster_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_traversable_mushroom_cluster_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_tree_epiphyte_01_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_tree_epiphyte_01_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_tree_epiphyte_01_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_tree_epiphyte_01_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_trunk_deco_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_trunk_deco_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_trunk_deco_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_trunk_deco_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_trunk_deco_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_trunk_deco_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_yucca_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_yucca_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rain_yucca_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rain_yucca_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rav_greenmoss_lump_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rav_greenmoss_lump_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_rock_deco_a_nobio"
+        ],
+        "mgraphobject": [
+          "dlc3_md_rock_deco_a_nobio"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_temp_billberry_cluster_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_temp_billberry_cluster_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_temp_fern_cluster_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_temp_fern_cluster_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_temp_fern_cluster_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_temp_fern_cluster_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_temp_fern_large_c"
+        ],
+        "mgraphobject": [
+          "dlc3_md_temp_fern_large_c"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_tree_epiphyte_01_a_colourvariation"
+        ],
+        "mgraphobject": [
+          "dlc3_md_tree_epiphyte_01_a_colourvariation"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_tree_epiphyte_01_a_colourvariation_02"
+        ],
+        "mgraphobject": [
+          "dlc3_md_tree_epiphyte_01_a_colourvariation_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_tree_epiphyte_01_c_colourvariation_01"
+        ],
+        "mgraphobject": [
+          "dlc3_md_tree_epiphyte_01_c_colourvariation_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_tree_epiphyte_01_c_colourvariation_02"
+        ],
+        "mgraphobject": [
+          "dlc3_md_tree_epiphyte_01_c_colourvariation_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_veg_rav_hanginggrass_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_veg_rav_hanginggrass_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_vinehighway_overgrowth_01"
+        ],
+        "mgraphobject": [
+          "dlc3_md_vinehighway_overgrowth_01"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_vinehighway_overgrowth_02"
+        ],
+        "mgraphobject": [
+          "dlc3_md_vinehighway_overgrowth_02"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_vinehighway_overgrowth_03"
+        ],
+        "mgraphobject": [
+          "dlc3_md_vinehighway_overgrowth_03"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_yucca_a"
+        ],
+        "mgraphobject": [
+          "dlc3_md_yucca_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_md_yucca_b"
+        ],
+        "mgraphobject": [
+          "dlc3_md_yucca_b"
+        ]
+      },
+      {
+        "ui_names": [
+          "dlc3_nat_rain_ivy_patch_large_hanging_d"
+        ],
+        "mgraphobject": [
+          "dlc3_nat_rain_ivy_patch_large_hanging_d"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_ash_freyedrope_01_grey"
+        ],
+        "mgraphobject": [
+          "md_ash_freyedrope_01_grey"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0017_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0017_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_msv_0018_a"
+        ],
+        "mgraphobject": [
+          "md_msv_0018_a"
+        ]
+      },
+      {
+        "ui_names": [
+          "md_nct_0001_a"
+        ],
+        "mgraphobject": [
+          "md_nct_0001_a"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "effect": {
+    "base_game": [
+      {
+        "ui_names": [
+          "echo_bullet_interference_fx"
+        ],
+        "mgraphobject": [
+          "echo_bullet_interference_fx"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_agenthighlight_ampsuit"
+        ],
+        "mgraphobject": [
+          "fx_agenthighlight_ampsuit"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_agenthighlight_viperwolf"
+        ],
+        "mgraphobject": [
+          "fx_agenthighlight_viperwolf"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_aitool_wildlifethrower"
+        ],
+        "mgraphobject": [
+          "fx_aitool_wildlifethrower"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_cin_lightshaft_manager"
+        ],
+        "mgraphobject": [
+          "fx_cin_lightshaft_manager"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_elemental_fire_area"
+        ],
+        "mgraphobject": [
+          "fx_elemental_fire_area"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_mhs_hearing_feedback"
+        ],
+        "mgraphobject": [
+          "fx_mhs_hearing_feedback"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_mtp_cin_mountain_fog_seeded"
+        ],
+        "mgraphobject": [
+          "fx_mtp_cin_mountain_fog_seeded"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_mtp_cin_test_navi_manager"
+        ],
+        "mgraphobject": [
+          "fx_mtp_cin_test_navi_manager"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_scenttrail_hexapede"
+        ],
+        "mgraphobject": [
+          "fx_scenttrail_hexapede"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_scenttrail_patrolpath_test"
+        ],
+        "mgraphobject": [
+          "fx_scenttrail_patrolpath_test"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_scenttrail_v2_hammerhead"
+        ],
+        "mgraphobject": [
+          "fx_scenttrail_v2_hammerhead"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_scenttrail_yellow_nosilhouette"
+        ],
+        "mgraphobject": [
+          "fx_scenttrail_yellow_nosilhouette"
+        ]
+      },
+      {
+        "ui_names": [
+          "p_fx_wild_caps_drink_water_splash"
+        ],
+        "mgraphobject": [
+          "p_fx_wild_caps_drink_water_splash"
+        ]
+      },
+      {
+        "ui_names": [
+          "remnant crosshair hologram effect"
+        ],
+        "mgraphobject": [
+          "remnant crosshair hologram effect"
+        ]
+      },
+      {
+        "ui_names": [
+          "ui-postprocessing_environmentalfx"
+        ],
+        "mgraphobject": [
+          "ui-postprocessing_environmentalfx"
+        ]
+      }
+    ],
+    "dlc2": [
+      {
+        "ui_names": [
+          "fx_dlc2_dragon_destroyed_smoke_trail"
+        ],
+        "mgraphobject": [
+          "fx_dlc2_dragon_destroyed_smoke_trail"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_dlc2_samson_destroyed_smoke_trail"
+        ],
+        "mgraphobject": [
+          "fx_dlc2_samson_destroyed_smoke_trail"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_dlc2_scorpion_destroyed_smoke_trail"
+        ],
+        "mgraphobject": [
+          "fx_dlc2_scorpion_destroyed_smoke_trail"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_dlc2_wyvern_destroyed_smoke_trail"
+        ],
+        "mgraphobject": [
+          "fx_dlc2_wyvern_destroyed_smoke_trail"
+        ]
+      }
+    ],
+    "dlc3": [
+      {
+        "ui_names": [
+          "fx_dlc3_dragon_destroyed_smoke_trail"
+        ],
+        "mgraphobject": [
+          "fx_dlc3_dragon_destroyed_smoke_trail"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_dlc3_samson_destroyed_smoke_trail"
+        ],
+        "mgraphobject": [
+          "fx_dlc3_samson_destroyed_smoke_trail"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_dlc3_scorpion_destroyed_smoke_trail"
+        ],
+        "mgraphobject": [
+          "fx_dlc3_scorpion_destroyed_smoke_trail"
+        ]
+      },
+      {
+        "ui_names": [
+          "fx_dlc3_wyvern_destroyed_smoke_trail"
+        ],
+        "mgraphobject": [
+          "fx_dlc3_wyvern_destroyed_smoke_trail"
+        ]
+      }
+    ],
+    "rogue": [
+      {
+        "ui_names": [
+          "fire_propagation_particleeffect"
+        ],
+        "mgraphobject": [
+          "fire_propagation_particleeffect"
+        ]
+      }
+    ]
+  }
+}

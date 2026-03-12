@@ -1,0 +1,14 @@
+{
+  "road": {
+    "rogue": [
+      {
+        "ui_names": [
+          "default_road"
+        ],
+        "mgraphobject": [
+          "default_road"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "interiorwalls": {
+    "base_game": [
+      {
+        "ui_names": [
+          "in_msv_0001_a"
+        ],
+        "mgraphobject": [
+          "in_msv_0001_a"
+        ]
+      }
+    ],
+    "rogue": [
+      {
+        "ui_names": [
+          "new_interior_graph_template_walls"
+        ],
+        "mgraphobject": [
+          "new_interior_graph_template_walls"
+        ]
+      }
+    ]
+  }
+}

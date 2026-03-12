@@ -1,0 +1,14 @@
+{
+  "roadparts": {
+    "rogue": [
+      {
+        "ui_names": [
+          "default_roadparts"
+        ],
+        "mgraphobject": [
+          "default_roadparts"
+        ]
+      }
+    ]
+  }
+}

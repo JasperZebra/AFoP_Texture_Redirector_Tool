@@ -1,0 +1,30 @@
+{
+  "playerrealization": {
+    "base_game": [
+      {
+        "ui_names": [
+          "player_realization_audio"
+        ],
+        "mgraphobject": [
+          "player_realization_audio"
+        ]
+      },
+      {
+        "ui_names": [
+          "player_realization_clothsim"
+        ],
+        "mgraphobject": [
+          "player_realization_clothsim"
+        ]
+      },
+      {
+        "ui_names": [
+          "player_realization_final"
+        ],
+        "mgraphobject": [
+          "player_realization_final"
+        ]
+      }
+    ]
+  }
+}

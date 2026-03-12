@@ -1,0 +1,22 @@
+{
+  "sidewalkparts": {
+    "rogue": [
+      {
+        "ui_names": [
+          "default_sidewalkparts"
+        ],
+        "mgraphobject": [
+          "default_sidewalkparts"
+        ]
+      },
+      {
+        "ui_names": [
+          "e3 sidewalk 2014 parts"
+        ],
+        "mgraphobject": [
+          "e3 sidewalk 2014 parts"
+        ]
+      }
+    ]
+  }
+}

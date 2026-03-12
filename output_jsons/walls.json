@@ -1,0 +1,48 @@
+{
+  "walls": {
+    "base_game": [
+      {
+        "ui_names": [
+          "pr_msv_1005 walls"
+        ],
+        "mgraphobject": [
+          "pr_msv_1005 walls"
+        ]
+      },
+      {
+        "ui_names": [
+          "pr_msv_1015_a walls"
+        ],
+        "mgraphobject": [
+          "pr_msv_1015_a walls"
+        ]
+      },
+      {
+        "ui_names": [
+          "pr_msv_1099_b walls"
+        ],
+        "mgraphobject": [
+          "pr_msv_1099_b walls"
+        ]
+      }
+    ],
+    "rogue": [
+      {
+        "ui_names": [
+          "default_walls"
+        ],
+        "mgraphobject": [
+          "default_walls"
+        ]
+      },
+      {
+        "ui_names": [
+          "sidewalk props"
+        ],
+        "mgraphobject": [
+          "sidewalk props"
+        ]
+      }
+    ]
+  }
+}
